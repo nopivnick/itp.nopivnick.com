@@ -1,11 +1,11 @@
 # main links
 main:
-  # - title: "About"
-  #   url: /about/
-  - title: "Categories"
-    url: /categories/
-  # - title: "Projects"
-  #   url: /projects/
+  - title: "About"
+    url: https://itp.nopivnick.com/about/
+  - title: "Courses"
+    url: https://itp.nopivnick.com/courses/
+  - title: "Projects"
+    url: https://itp.nopivnick.com/projects/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
