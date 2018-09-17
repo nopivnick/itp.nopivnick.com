@@ -4,6 +4,10 @@ main:
   #   url: /about/
   - title: "Categories"
     url: /categories/
+  - title: "ICM"
+    url: /categories/icm/
+  - title: "PhysComp"
+    url: /categories/physcomp/
   # - title: "Projects"
   #   url: /projects/
   # - title: "Sample Posts"
