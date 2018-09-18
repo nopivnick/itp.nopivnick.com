@@ -1,13 +1,13 @@
 ---
 layout:       single
-title:        "First Sketch Experience"
+title:        "ICM Week 1: My First P5js Sketch"
 date:         2018-09-10 22:47:54 -0400
 categories:   ICM
 ---
 
 holy cow, that was brutal.
 
-drawing shapes with coordinates is no fun. no fun at all. I’m sure I’m not the first to say but god, it’s such cruelty to be looking at the sketch and not be able to select and drag points around.
+drawing shapes with coordinates is no fun. I’m sure I’m not the first to say but god, it’s such cruelty to be looking at the sketch and not be able to select and drag points around.
 
 I recalled having seen Yining’s (?) P5.Playground while pursuing the ICM syllabus over the summer. I tracked it down and assumed (wrongly) it would save me but alas, without an interface (and a canvas) that matches the P5.js editor one-for-one, the struggle was just a terrible only inverted. trying to get the code to play nice was no more helpful than manipulating coordinates in the editor one argument at a time.
 
