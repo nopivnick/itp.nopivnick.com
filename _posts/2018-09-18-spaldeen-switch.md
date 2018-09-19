@@ -5,7 +5,7 @@ date:         2018-09-18 19:02:01 -04:00
 categories:   PhysComp
 ---
 
-*Full disclosure: this assignment may have been a bit of a cheat (?) in that I used a switch I cannibalized from a project I made during ITP Camp 2018.*
+*Full disclosure: this assignment may have been a bit of a cheat (?) in that it makes use of a switch cannibalized from a project I made during ITP Camp 2018.*
 
 The switch I used for this week's assignment is constructed from conductive fabric and a classic pink Spalding stickball (a.k.a. a 'Spaldeen').
 
@@ -27,7 +27,7 @@ When the opposing sides of the Spaldeen 'squooshbutton' are squeezed together, t
 
 ![image-title-here](/assets/images/IMG_3450.jpg)
 
-Note: I've found it helpful to put a 'dog leg' (a.k.a an offset bend) in the cathode leg of an LED. Doing so helps 1.) easily identify the cathode and 2.) bottom out both legs of the LED bottom evenly in a breadboard.
+Note: I've found it helpful to put a 'dog leg' (a.k.a an offset bend) in the anode leg of an LED. Doing so helps 1.) easily identify the anode and 2.) both legs of the LED bottom out evenly in a breadboard.
 
 ![image-title-here](/assets/images/IMG_3447.jpg)
 
