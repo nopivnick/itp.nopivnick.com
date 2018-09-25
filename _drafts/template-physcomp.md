@@ -11,6 +11,7 @@ categories:   PhysComp
 
 # document your production projects and technical research thoroughly
 
+- statement of intention
 - what it looks like
 - what it does
 - what the user or participant does in response
@@ -24,3 +25,6 @@ categories:   PhysComp
 
 
 # discuss readings
+
+
+# questions
