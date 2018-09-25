@@ -7,15 +7,15 @@ categories:   PhysComp
 
 *Full disclosure: this assignment may have been a bit of a cheat (?) in that it makes use of a switch cannibalized from a project I made during ITP Camp 2018.*
 
-The switch I used for this week's assignment is constructed from conductive fabric and a classic pink Spalding stickball (a.k.a. a 'Spaldeen').
+The switch I used for this week's assignment is constructed from conductive fabric and a classic pink Spalding stickball (aka a 'Spaldeen').
 
 ![image-title-here](/assets/images/spaldeen.jpg)
 
-I cut the ball in half and glued two pieces of non-contiguous conductive fabric to the Spaldeen's surface using [Barge](http://www.bargeadhesive.com/products.html) contact cement. Barge is a close cousin to rubber cement and a staple of shoe repair because it provides a sturdy bond and maintains it's flexibility after it dries.
+I cut the ball in half and glued two pieces of non-contiguous conductive fabric to the Spaldeen's surface using [Barge](http://www.bargeadhesive.com/products.html) contact cement. Barge is a close cousin to rubber cement and a staple of shoe repair. It provides a sturdy bond and maintains it's flexibility after it dries.
 
 ![image-title-here](/assets/images/IMG_3443.jpg)
 
-Once the cement dried I inverted the hemisphere so the two pieces of conductive fabric oppose one another and voila: a momentary pushbutton (or squooshbutton) switch!
+Once the cement dried I inversed the hemisphere so the two pieces of conductive fabric oppose one another and voila: a momentary pushbutton (or squooshbutton) switch!
 
 ![image-title-here](/assets/images/IMG_3446.jpg)
 
