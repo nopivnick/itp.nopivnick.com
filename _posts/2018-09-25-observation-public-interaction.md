@@ -37,6 +37,7 @@ The part of the interaction that took the longest was undoubtedly negotiating th
 
 Excluding interactions that were abandoned before they were completed (or never begun), the entire interaction consistently took about one minute, give or take 5 to 10 seconds.
 
+Because this was such a fascinating exercise, I wanted to film the interaction but because it was such a small space, I felt compelled to first ask permission. I suppose this effectively 'contaminated' the observation but I will say -- in my own defense -- I made sure everyone I filmed had not yet used the device.
 
 ## Subject 1
 
@@ -53,6 +54,7 @@ Excluding interactions that were abandoned before they were completed (or never 
 
 - misunderstood the onscreen instructions "Look Here" to mean 'closely examine this part of the device' rather than 'direct your gaze to this point'
 - without pause, provided a 'junk email account' when asked for an email address
+- didn't actually understand it's purpose
 
 ## Subject 3
 
