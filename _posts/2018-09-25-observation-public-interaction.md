@@ -15,7 +15,9 @@ Upon further reflection, I realized the correlation between a self-serve photo b
 
 The device is acutely unassuming. It's design aesthetic is minimalist and modern (to whatever extent I understand those things) -- bordering on industrial -- and because the context in which it's installed shares those same aesthetic principles, the photo booth blends into it's surroundings almost to the point of disappearing. In no way does it draw attention to itself nor announce it's purpose, which is a curious decision given it's entire reason for being depends upon engaging users.
 
-As if to illustrate that point, I spent the better part of an hour standing behind and off to one side waiting for people to engage with the photo booth and during that time the device only drew the attention of three individuals (separate from the individuals I filmed below). It's worth mentioning while yes, the device is located indoors in what might be considered a pseudo-public space, my observation took place during the Tribeca Television Festival during which there was was significant foot traffic.
+As if to illustrate that point, I spent the better part of an hour standing behind and off to one side waiting for people to engage with the photo booth and during that time the device only drew the attention of three individuals (separate from the individuals I filmed below).
+
+It's worth mentioning while yes, the device is located indoors in what might be considered a pseudo-public space, my observation took place during the Tribeca Television Festival during which there was was significant foot traffic.
 
 I'm fairly certain in all cases it was the glow of the screen, not the intent / purpose of the device, that first drew their attention. That was certainly my experience.
 
