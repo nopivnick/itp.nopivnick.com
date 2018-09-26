@@ -59,7 +59,7 @@ Highlights:
 - hesitated to provide their email address
 - was reluctant to engage with the device while in public
 - was surprised and put off by the strobe flash
-- pointed out the interaction provided no indication how close or far to stand with respect to the device and, as a consequence
+- later pointed out the interaction provided no indication how close or far to stand with respect to the device and therefor, as a consequence ...
 - the interaction is biased toward people of a certain height
 
 ## Subject 2
@@ -69,8 +69,8 @@ Highlights:
 Highlights:
 
 - misunderstood the onscreen instructions "Look Here" to mean 'peer into this part of the device' rather than 'direct your gaze to this point'
-- without pause, provided a 'junk email account' when asked for an email address
-- initially mistook the device for a wall-mounted hand dryer like those you find in public restrooms
+- later admitted to providing a 'junk email account' when asked for an email address
+- later admitted initially mistook the device for a wall-mounted hand dryer (like those you find in public restrooms)
 
 ## Subject 3
 
@@ -78,7 +78,7 @@ Highlights:
 
 Highlights:
 
-- pointed out the onscreen instruction to "Go Crazy" (i.e., 'be animated') came *after* the screen directed the user to "Look Here"
+- later pointed out the onscreen instruction to "Go Crazy" (i.e., 'be animated') came *after* the screen directed the user to "Look Here"
 
 TODO:
 
