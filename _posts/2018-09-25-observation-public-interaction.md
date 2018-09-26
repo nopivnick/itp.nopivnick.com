@@ -47,7 +47,9 @@ Recurring fails:
 
 ![image-title-here](/assets/images/09qwao61145.jpg)
 
-It's difficult to record the minute details of any given interaction, especially when it happens so quickly. I eventually succumbed to recording the interaction on video however because it was such a confined space, and because I was loath to be seen as intruding on someone's privacy, I felt compelled to first ask permission. A purist would no doubt say this effectively 'contaminated' the observation but in my own defense, I only individuals who were not aware of the photo booth's presence and therefore had no prior experience with the interaction.
+It's difficult to record the minute details of any given interaction, especially when it happens so quickly. I eventually succumbed to recording the interaction on video however because it was such a confined space, and because I was loath to be seen as intruding on someone's privacy, I felt compelled to first ask permission.
+
+A purist would no doubt say this effectively 'contaminated' the observation but in my own defense, I only approached individuals who 1.) were not previously aware of the photo booth's presence and therefore 2.) had no prior experience with the interaction.
 
 ## Subject 1
 
