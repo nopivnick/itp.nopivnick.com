@@ -5,9 +5,9 @@ date:         2018-09-25 19:48:42 -04:00
 categories:   PhysComp
 ---
 
-Note: this post is currently in progress (I'm, writing it as you read this).
+_Note: this post is currently in progress (I'm, writing it as you read this)._
 
-For this week's observation I choose a wall-mounted digital photo booth designed and (presumably?) manufactured by a company called [Smilebooth](http://www.smilebooth.com/).
+For my observation I choose a wall-mounted digital photo booth designed and (presumably?) manufactured by a company called [Smilebooth](http://www.smilebooth.com/).
 
 ![image-title-here](/assets/images/IMG_3477.jpg)
 
@@ -37,11 +37,13 @@ The part of the interaction that took the longest was undoubtedly negotiating th
 
 Excluding interactions that were abandoned before they were completed (or never begun), the entire interaction consistently took about one minute, give or take 5 to 10 seconds.
 
-It's difficult to remember the minute details of the interaction, especially when it happens so quickly, so I eventually succumbed to recording the interaction on video however because it was such a small confined space, I felt compelled to first ask permission. A purist would no doubt say this effectively 'contaminated' the observation but in my own defense, I only individuals who were not aware of the photo booth's presence and therefore had no prior experience with the interaction.
+It's difficult to record the minute details of the interaction, especially when it happens so quickly. I eventually succumbed to recording the interaction on video however because it was such a confined space, and because I was loath to be seen as intruding on someone's privacy, I felt compelled to first ask permission. A purist would no doubt say this effectively 'contaminated' the observation but in my own defense, I only individuals who were not aware of the photo booth's presence and therefore had no prior experience with the interaction.
 
 ## Subject 1
 
 <iframe width="560" height="315" src="https://drive.google.com/file/d/108-95kjx07vrltROM44BFgQDuGn2S20e/preview" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Post-interaction interview highlights:
 
 - touch-selections repeated failed to register
 - hesitated to provide their email address
@@ -52,6 +54,8 @@ It's difficult to remember the minute details of the interaction, especially whe
 
 <iframe width="560" height="315" src="https://drive.google.com/file/d/10GqTR6R4-PDY6flcvGit2LBasO8hJEUn/preview" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+Post-interaction interview highlights:
+
 - misunderstood the onscreen instructions "Look Here" to mean 'closely examine this part of the device' rather than 'direct your gaze to this point'
 - without pause, provided a 'junk email account' when asked for an email address
 - didn't actually understand it's purpose
@@ -59,6 +63,9 @@ It's difficult to remember the minute details of the interaction, especially whe
 ## Subject 3
 
 <iframe width="560" height="315" src="https://drive.google.com/file/d/10IrDVypCsniiPzHB_ilq2g3P3ow8W4Jo/preview" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Post-interaction interview highlights:
+
 
 
 TODO:
