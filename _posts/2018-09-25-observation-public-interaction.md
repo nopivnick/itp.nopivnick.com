@@ -53,18 +53,20 @@ It's difficult to record the minute details of any given interaction, especially
 
 <iframe width="560" height="315" src="https://drive.google.com/file/d/108-95kjx07vrltROM44BFgQDuGn2S20e/preview" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Post-interaction interview highlights:
+Highlights:
 
 - touch-selections repeated failed to register
 - hesitated to provide their email address
 - was reluctant to engage with the device while in public
 - was surprised and put off by the strobe flash
+- pointed out the interaction provided no indication how close or far to stand with respect to the device and, as a consequence
+- the interaction is biased toward people of a certain height
 
 ## Subject 2
 
 <iframe width="560" height="315" src="https://drive.google.com/file/d/10GqTR6R4-PDY6flcvGit2LBasO8hJEUn/preview" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Post-interaction interview highlights:
+Highlights:
 
 - misunderstood the onscreen instructions "Look Here" to mean 'peer into this part of the device' rather than 'direct your gaze to this point'
 - without pause, provided a 'junk email account' when asked for an email address
@@ -74,9 +76,9 @@ Post-interaction interview highlights:
 
 <iframe width="560" height="315" src="https://drive.google.com/file/d/10IrDVypCsniiPzHB_ilq2g3P3ow8W4Jo/preview" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Post-interaction interview highlights:
+Highlights:
 
-- noted that the onscreen instruction to "Go Crazy" came *after* the screen directed the user to "Look Here"
+- pointed out the onscreen instruction to "Go Crazy" (i.e., 'be animated') came *after* the screen directed the user to "Look Here"
 
 TODO:
 
