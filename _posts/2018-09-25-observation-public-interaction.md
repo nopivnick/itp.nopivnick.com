@@ -56,9 +56,9 @@ It's difficult to record the minute details of any given interaction, especially
 Highlights:
 
 - touch-selections repeated failed to register
-- hesitated to provide their email address
-- was reluctant to engage with the device while in public
-- was surprised and put off by the strobe flash
+- was surprised / put off by the strobe flash
+- later admitted hesitated to provide their email address
+- later admitted was reluctant to engage with the device while in public
 - later pointed out the interaction provided no indication how close or far to stand with respect to the device and therefor, as a consequence ...
 - the interaction is biased toward people of a certain height
 
@@ -78,7 +78,7 @@ Highlights:
 
 Highlights:
 
-- later pointed out the onscreen instruction to "Go Crazy" (i.e., 'be animated') came *after* the screen directed the user to "Look Here"
+- later pointed out the onscreen instruction to "Go Crazy" (i.e., 'be animated') came *after* the screen directed the user to look elsewhere ("Look Here" → camera lens, away from the screen)
 
 TODO:
 
