@@ -5,7 +5,7 @@ date:         2018-09-25 19:48:42 -04:00
 categories:   PhysComp
 ---
 
-_Note: this post is currently in progress (I'm, writing it as you read this)._
+_Note: this post is currently in progress (I'm writing it and pushing edits as you read this)._
 
 For my observation I choose a wall-mounted digital photo booth designed and (presumably?) manufactured by a company called [Smilebooth](http://www.smilebooth.com/).
 
