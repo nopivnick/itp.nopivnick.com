@@ -29,13 +29,21 @@ The user interacts with the photo booth via a touch screen and the interaction b
 
 I'm fairly certain in all cases it was the screen, not the intent / purpose of the device, that first drew their attention. That was certainly my experience.
 
-Without fail, users selected the Animated Gif option first. I'm not sure whether this is because gifs are the more attractive proposition or because as reader / writers in this part of the world we tend to make selections starting from the left and moving right.
+Patterns:
 
-Touch-selections failed to register at least once per engagement, often more than once, more often than not while attempting to make the same selection.
+- without exception, users selected the Animated Gif option first. I'm not sure whether this is because gifs are the more attractive proposition or because as reader / writers in this part of the world we tend to make selections starting from the left and moving right.
 
-The part of the interaction that took the longest was undoubtedly negotiating the on-screen keyboard while entering one's email address.
+- the part of the interaction that took the longest was undoubtedly negotiating the on-screen keyboard while entering one's email address.
 
-Excluding interactions that were abandoned before they were completed (or never begun), the entire interaction consistently took about one minute, give or take 5 to 10 seconds.
+- excluding interactions that were abandoned before they were completed (or never begun), the entire interaction consistently took about one minute, give or take 5 to 10 seconds.
+
+Recurring fails:
+
+- touch-selections failed to register at least once per engagement, often more than once, more often than not while attempting to make the same selection.
+
+- 'photo montage' option took a single photo only, confusing users
+
+- 'photo montage' image was incorrectly cropped, likely because the software is biased toward one side, resulting in an incorrectly framed image
 
 It's difficult to record the minute details of the interaction, especially when it happens so quickly. I eventually succumbed to recording the interaction on video however because it was such a confined space, and because I was loath to be seen as intruding on someone's privacy, I felt compelled to first ask permission. A purist would no doubt say this effectively 'contaminated' the observation but in my own defense, I only individuals who were not aware of the photo booth's presence and therefore had no prior experience with the interaction.
 
