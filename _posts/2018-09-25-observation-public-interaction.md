@@ -78,7 +78,9 @@ Highlights:
 
 Highlights:
 
-- later pointed out the onscreen instruction to "Go Crazy" (i.e., 'be animated') came *after* the screen directed the user to look elsewhere ("Look Here" → camera lens, away from the screen)
+- was presented with the message "OOPS! I THINK YOU BROKE THE CAMERA." when the device malfunctioned
+- later pointed out the onscreen instruction to "Go Crazy" (i.e., 'be animated') came *after* the screen directed the user to look elsewhere ("Look Here" → camera lens, away from the screen) and therefor easy to miss
+
 
 TODO:
 
