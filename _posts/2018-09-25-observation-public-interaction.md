@@ -11,21 +11,21 @@ For my observation I choose a wall-mounted digital photo booth designed and (pre
 
 The photo booth is mounted in the lobby of [Spring Studios](https://www.springstudios.com/shoots/new-york/), a slick commercial photography and events venue located in New York City's stylish Tribeca neighborhood.
 
-Upon further reflection, I understood the correlation between a self-serve photo booth and a venue that provides raw space for commercial photography shoots but at first glance it wasn't clear what purpose the object served. This, despite having used similar devices before.
+Upon further reflection, I realized the correlation between a self-serve photo booth and a venue that provides raw space for commercial photography shoots but at first glance it was in no way clear what purpose the object served. This, despite having used similar devices before.
 
-The device is acutely unassuming. It's design aesthetic is minimalist and modern (to whatever extent I understand those things) -- bordering on industrial -- and because the context shares those same aesthetic principles the photo booth blends into it's surroundings seamlessly, as though by (no doubt mistaken) intention. In no way does it draw attention to itself nor is it's purpose apparent, which is a curious decision given it's entire reason for being depends upon engaging users.
+The device is acutely unassuming. It's design aesthetic is minimalist and modern (to whatever extent I understand those things) -- bordering on industrial -- and because the context in which it's installed shares those same aesthetic principles, the photo booth blends into it's surroundings almost to the point of disappearing. In no way does it draw attention to itself nor announce it's purpose, which is a curious decision given it's entire reason for being depends upon engaging users.
 
-As if to illustrate that point, I spent the better part of an hour standing behind and off to one side waiting for people to engage with the photo booth and during that time the device only drew the attention of three individuals (separate from the individuals I filmed below). It's worth mentioning while the device is located indoors in what might be considered a pseudo-public space, my observation took place during the Tribeca Television Festival, during which there was was a significant amount of foot traffic.
+As if to illustrate that point, I spent the better part of an hour standing behind and off to one side waiting for people to engage with the photo booth and during that time the device only drew the attention of three individuals (separate from the individuals I filmed below). It's worth mentioning while yes, the device is located indoors in what might be considered a pseudo-public space, my observation took place during the Tribeca Television Festival during which there was was significant foot traffic.
 
-This is the user flow:
-
-<iframe width="560" height="315" src="https://drive.google.com/file/d/10K99MwwZiCiGjfcbZIEXVfJfpoR6bo1S/preview" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+I'm fairly certain in all cases it was the glow of the screen, not the intent / purpose of the device, that first drew their attention. That was certainly my experience.
 
 The user interacts with the photo booth via a touch screen and the interaction begins with a choice: Animated Gif or Photo Montage.
 
 ![image-title-here](/assets/images/IMG_3474.jpg)
 
-I'm fairly certain in all cases it was the glow of the screen, not the intent / purpose of the device, that first drew their attention. That was certainly my experience.
+This is the user flow:
+
+<iframe width="560" height="315" src="https://drive.google.com/file/d/10K99MwwZiCiGjfcbZIEXVfJfpoR6bo1S/preview" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Patterns of use:
 
