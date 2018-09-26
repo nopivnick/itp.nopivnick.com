@@ -11,8 +11,6 @@ For this week's observation I choose a wall-mounted digital photo booth designed
 
 ![image-title-here](/assets/images/IMG_3477.jpg)
 
-## Write down your assumptions as to how it’s used, and describe the context in which it’s being used.
-
 The photo booth is mounted in the lobby of [Spring Studios](https://www.springstudios.com/shoots/new-york/), a slick commercial photography and events venue located in New York City's stylish Tribeca neighborhood.
 
 Upon further reflection, I understand the correlation between a self-serve photo booth and a venue that provides raw space for commercial photography shoots but at first glance it wasn't clear what purpose the object served. This, despite having used similar devices before.
@@ -53,9 +51,14 @@ Excluding interactions that were abandoned before they were completed (or never 
 
 <iframe width="560" height="315" src="https://drive.google.com/file/d/10GqTR6R4-PDY6flcvGit2LBasO8hJEUn/preview" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+- misunderstood the onscreen instructions "Look Here" to mean 'closely examine this part of the device' rather than 'direct your gaze to this point'
+- without pause, provided a 'junk email account' when asked for an email address
 
 ## Subject 3
 
 <iframe width="560" height="315" src="https://drive.google.com/file/d/10IrDVypCsniiPzHB_ilq2g3P3ow8W4Jo/preview" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+TODO:
 
 - Consider how the readings from Norman and Crawford reflect on what you see.
