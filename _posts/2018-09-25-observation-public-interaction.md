@@ -17,7 +17,7 @@ Upon further reflection, I understood the correlation between a self-serve photo
 
 The device is acutely unassuming. It's design aesthetic is minimalist and modern (to whatever extent I understand those things) -- bordering on industrial -- and because the context shares those same aesthetic principles the photo booth blends into it's surroundings seamlessly, as though by (no doubt mistaken) intention. In no way does it draw attention to itself nor is it's purpose apparent, which is a curious decision given it's entire reason for being depends upon engaging users.
 
-As if to illustrate that point, I spent the better part of an hour standing behind and off to one side waiting for people to engage with the photo booth and during that time the device only drew the attention of three separate individuals. It's worth mentioning while the device is located indoors in what might be considered a pseudo-public space, my observation took place during the Tribeca Television Festival, during which there was was a significant amount of foot traffic.
+As if to illustrate that point, I spent the better part of an hour standing behind and off to one side waiting for people to engage with the photo booth and during that time the device only drew the attention of three individuals (separate from the individuals I filmed below). It's worth mentioning while the device is located indoors in what might be considered a pseudo-public space, my observation took place during the Tribeca Television Festival, during which there was was a significant amount of foot traffic.
 
 This is the user flow:
 
@@ -43,9 +43,11 @@ Recurring fails:
 
 - 'photo montage' option took a single photo only, confusing users
 
-- subjects were not framed properly, despite standing centered with respect to the camera lens
+- subjects were not framed properly, despite standing centered with respect to the camera lens (example below)
 
-It's difficult to record the minute details of the interaction, especially when it happens so quickly. I eventually succumbed to recording the interaction on video however because it was such a confined space, and because I was loath to be seen as intruding on someone's privacy, I felt compelled to first ask permission. A purist would no doubt say this effectively 'contaminated' the observation but in my own defense, I only individuals who were not aware of the photo booth's presence and therefore had no prior experience with the interaction.
+![image-title-here](/assets/images/09qwao61145.jpg)
+
+It's difficult to record the minute details of any given interaction, especially when it happens so quickly. I eventually succumbed to recording the interaction on video however because it was such a confined space, and because I was loath to be seen as intruding on someone's privacy, I felt compelled to first ask permission. A purist would no doubt say this effectively 'contaminated' the observation but in my own defense, I only individuals who were not aware of the photo booth's presence and therefore had no prior experience with the interaction.
 
 ## Subject 1
 
@@ -64,7 +66,7 @@ Post-interaction interview highlights:
 
 Post-interaction interview highlights:
 
-- misunderstood the onscreen instructions "Look Here" to mean 'closely examine this part of the device' rather than 'direct your gaze to this point'
+- misunderstood the onscreen instructions "Look Here" to mean 'peer into this part of the device' rather than 'direct your gaze to this point'
 - without pause, provided a 'junk email account' when asked for an email address
 - initially mistook the device for a wall-mounted hand dryer like those you find in public restrooms
 
@@ -74,7 +76,7 @@ Post-interaction interview highlights:
 
 Post-interaction interview highlights:
 
-
+- noted that the onscreen instruction to "Go Crazy" came *after* the screen directed the user to "Look Here"
 
 TODO:
 
