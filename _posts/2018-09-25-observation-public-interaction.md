@@ -5,8 +5,6 @@ date:         2018-09-25 19:48:42 -04:00
 categories:   PhysComp
 ---
 
-_Note: this post is currently in progress (I'm writing it and pushing edits as you read this)._
-
 For my observation I choose a wall-mounted digital photo booth designed and (presumably?) manufactured by a company called [Smilebooth](http://www.smilebooth.com/).
 
 ![image-title-here](/assets/images/IMG_3477.jpg)
@@ -27,13 +25,13 @@ The user interacts with the photo booth via a touch screen and the interaction b
 
 ![image-title-here](/assets/images/IMG_3474.jpg)
 
-I'm fairly certain in all cases it was the screen, not the intent / purpose of the device, that first drew their attention. That was certainly my experience.
+I'm fairly certain in all cases it was the glow of the screen, not the intent / purpose of the device, that first drew their attention. That was certainly my experience.
 
-Patterns:
+Patterns of use:
 
 - without exception, users selected the Animated Gif option first. I'm not sure whether this is because gifs are the more attractive proposition or because as reader / writers in this part of the world we tend to make selections starting from the left and moving right.
 
-- the part of the interaction that took the longest was undoubtedly negotiating the on-screen keyboard while entering one's email address.
+- unquestionably the part of the interaction that took the longest was negotiating the on-screen keyboard while entering one's email address.
 
 - excluding interactions that were abandoned before they were completed (or never begun), the entire interaction consistently took about one minute, give or take 5 to 10 seconds.
 
@@ -41,15 +39,15 @@ Recurring fails:
 
 - touch-selections failed to register at least once per engagement, often more than once, more often than not while attempting to make the same selection.
 
-- 'photo montage' option took a single photo only, confusing users
+- 'photo montage' option took a single photo only, confusing users who expected multiple exposures
 
 - subjects were not framed properly, despite standing centered with respect to the camera lens (example below)
 
 ![image-title-here](/assets/images/09qwao61145.jpg)
 
-It's difficult to record the minute details of any given interaction, especially when it happens so quickly. I eventually succumbed to recording the interaction on video however because it was such a confined space, and because I was loath to be seen as intruding on someone's privacy, I felt compelled to first ask permission.
+It's difficult to observe the complex minutia of a given interaction, especially when it happens so quickly. I eventually succumbed to recording the interaction on video however because it was such a confined space, and because I was loath to be seen as intruding on someone's privacy, I felt compelled to first ask permission.
 
-A purist would no doubt say this effectively 'contaminated' the observation but in my own defense, I only approached individuals who 1.) were not previously aware of the photo booth's presence and therefore 2.) had no prior experience with the interaction.
+A purist would no doubt say this effectively 'contaminated' the observation however in my own defense I only recruited individuals who 1.) were not previously aware of the photo booth's presence and therefore 2.) had no prior experience with the interaction.
 
 ## Subject 1
 
@@ -57,9 +55,9 @@ A purist would no doubt say this effectively 'contaminated' the observation but 
 
 Highlights:
 
-- touch-selections repeated failed to register
+- touchscreen repeated failed to register selections
 - was surprised / put off by the strobe flash
-- later admitted hesitated to provide their email address
+- later admitted was hesitant to provide email address
 - later admitted was reluctant to engage with the device while in public
 - later pointed out the interaction provided no indication how close or far to stand with respect to the device and therefor, as a consequence ...
 - the interaction is biased toward people of a certain height
@@ -70,7 +68,7 @@ Highlights:
 
 Highlights:
 
-- misunderstood the onscreen instructions "Look Here" to mean 'peer into this part of the device' rather than 'direct your gaze to this point'
+- mistook the onscreen instructions "Look Here →" to mean 'peer into this part of the device' rather than 'direct your gaze toward the lens'
 - later admitted to providing a 'junk email account' when asked for an email address
 - later admitted initially mistook the device for a wall-mounted hand dryer (like those you find in public restrooms)
 
@@ -80,8 +78,8 @@ Highlights:
 
 Highlights:
 
-- was presented with the message "OOPS! I THINK YOU BROKE THE CAMERA." when the device malfunctioned
-- later pointed out the onscreen instruction to "Go Crazy" (i.e., 'be animated') came *after* the screen directed the user to look elsewhere ("Look Here" → camera lens, away from the screen) and therefor easy to miss
+- when the device malfunctioned was presented with the message "OOPS! I THINK YOU BROKE THE CAMERA."
+- later pointed out the onscreen instruction to "Go Crazy" (i.e., 'be animated') came *after* the screen directed the user to look elsewhere ("Look Here" → camera lens, away from the screen) and therefor missed the cue
 
 
 TODO:
