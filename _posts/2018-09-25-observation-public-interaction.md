@@ -27,11 +27,11 @@ The user interacts with the photo booth via a touch screen and the interaction b
 
 ![image-title-here](/assets/images/IMG_3474.jpg)
 
-Without fail, users selected the Animated Gif option first. I'm not sure whether this is because as gifs are the more attractive proposition or because as reader / writers in this part of the world we tend to make selections starting from the left and moving right.
+I'm fairly certain in all cases it was the screen, not the intent / purpose of the device, that first drew their attention. That was certainly my experience.
+
+Without fail, users selected the Animated Gif option first. I'm not sure whether this is because gifs are the more attractive proposition or because as reader / writers in this part of the world we tend to make selections starting from the left and moving right.
 
 Touch-selections failed to register at least once per engagement, often more than once, more often than not while attempting to make the same selection.
-
-I'm fairly certain in all cases it was the screen, not the intent / purpose of the device, that first drew their attention. That was certainly my experience. One individual I spoke to said they initially mistook the device for a wall-mounted hand dryer like those you find in public restrooms.
 
 The part of the interaction that took the longest was undoubtedly negotiating the on-screen keyboard while entering one's email address.
 
@@ -58,7 +58,7 @@ Post-interaction interview highlights:
 
 - misunderstood the onscreen instructions "Look Here" to mean 'closely examine this part of the device' rather than 'direct your gaze to this point'
 - without pause, provided a 'junk email account' when asked for an email address
-- didn't actually understand it's purpose
+- initially mistook the device for a wall-mounted hand dryer like those you find in public restrooms
 
 ## Subject 3
 
