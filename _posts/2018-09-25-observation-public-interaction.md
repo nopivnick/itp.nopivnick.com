@@ -5,7 +5,7 @@ date:         2018-09-25 19:48:42 -04:00
 categories:   PhysComp
 ---
 
-This post is in progress.
+Note: this post is currently in progress (I'm, writing it as you read this).
 
 For this week's observation I choose a wall-mounted digital photo booth designed and (presumably?) manufactured by a company called [Smilebooth](http://www.smilebooth.com/).
 
@@ -13,9 +13,9 @@ For this week's observation I choose a wall-mounted digital photo booth designed
 
 The photo booth is mounted in the lobby of [Spring Studios](https://www.springstudios.com/shoots/new-york/), a slick commercial photography and events venue located in New York City's stylish Tribeca neighborhood.
 
-Upon further reflection, I understand the correlation between a self-serve photo booth and a venue that provides raw space for commercial photography shoots but at first glance it wasn't clear what purpose the object served. This, despite having used similar devices before.
+Upon further reflection, I understood the correlation between a self-serve photo booth and a venue that provides raw space for commercial photography shoots but at first glance it wasn't clear what purpose the object served. This, despite having used similar devices before.
 
-The device is acutely unassuming. It's design aesthetic is minimalist and modern (to whatever extent I understand those things) -- bordering on industrial -- and because the context share those same aesthetic principles the photo booth blends into it's surroundings seamlessly, as though by design. In no way does it draw attention to itself, which is a curious decision given it's purpose is entirely dependent upon engaging people.
+The device is acutely unassuming. It's design aesthetic is minimalist and modern (to whatever extent I understand those things) -- bordering on industrial -- and because the context shares those same aesthetic principles the photo booth blends into it's surroundings seamlessly, as though by (no doubt mistaken) intention. In no way does it draw attention to itself nor is it's purpose apparent, which is a curious decision given it's entire reason for being depends upon engaging users.
 
 As if to illustrate that point, I spent the better part of an hour standing behind and off to one side waiting for people to engage with the photo booth and during that time the device only drew the attention of three separate individuals. It's worth mentioning while the device is located indoors in what might be considered a pseudo-public space, my observation took place during the Tribeca Television Festival, during which there was was a significant amount of foot traffic.
 
@@ -37,7 +37,7 @@ The part of the interaction that took the longest was undoubtedly negotiating th
 
 Excluding interactions that were abandoned before they were completed (or never begun), the entire interaction consistently took about one minute, give or take 5 to 10 seconds.
 
-Because this was such a fascinating exercise, I wanted to film the interaction but because it was such a small space, I felt compelled to first ask permission. I suppose this effectively 'contaminated' the observation but I will say -- in my own defense -- I made sure everyone I filmed had not yet used the device.
+It's difficult to remember the minute details of the interaction, especially when it happens so quickly, so I eventually succumbed to recording the interaction on video however because it was such a small confined space, I felt compelled to first ask permission. A purist would no doubt say this effectively 'contaminated' the observation but in my own defense, I only individuals who were not aware of the photo booth's presence and therefore had no prior experience with the interaction.
 
 ## Subject 1
 
