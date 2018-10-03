@@ -85,6 +85,17 @@ else if (analogValue >= 150 * 5 && analogValue <= 150 * 6) {
   digitalWrite(4, HIGH);
   digitalWrite(5, HIGH);
   digitalWrite(6, HIGH);
+}
+
+// if pressure sensor value increases, turn all LEDs on
+else if (analogValue >= 150 * 6 && analogValue <= 150 * 7) {
+  digitalWrite(2, HIGH);
+  digitalWrite(3, HIGH);
+  digitalWrite(4, HIGH);
+  digitalWrite(5, HIGH);
+  digitalWrite(6, HIGH);
+  digitalWrite(7, HIGH);
+}
 ```
 
 My guess is there's a smarter way to go about this but I'm unclear what that might be.
