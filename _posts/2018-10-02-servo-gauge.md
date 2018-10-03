@@ -21,7 +21,7 @@ When the amount of pressure applied to the sensor is at it's maximum, the cutout
 
 Video below:
 
-<iframe width="640" height="480" src="https://drive.google.com/file/d/1D6qZuCSdR_oduJGRl5jrOiGXOOZkcF9r/preview" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://drive.google.com/file/d/10kZh0xaVQAj7Rjji4U3JF3TBkrJs9Qxm/preview" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 The part of this exercise I found most befuddling was the rapidly blinking green LED when the project is at risk, and the rapidly blinking red LED when the maximum amount of pressure is applied to the force sensing resistor. The unintended blinking goes away when the servo is disconnected from the breadboard so I have to imagine it has something to do with the pulse width modulation that drives the servo, but I have no idea how to identify the actually source of the problem.
 
