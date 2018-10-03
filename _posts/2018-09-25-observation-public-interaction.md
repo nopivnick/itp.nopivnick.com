@@ -27,7 +27,7 @@ The user interacts with the photo booth via a touch screen and the interaction b
 
 This is the user flow:
 
-<iframe width="560" height="315" src="https://drive.google.com/file/d/10K99MwwZiCiGjfcbZIEXVfJfpoR6bo1S/preview" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/10K99MwwZiCiGjfcbZIEXVfJfpoR6bo1S/preview" width="640" height="480" allow="fullscreen"></iframe>
 
 Patterns of use:
 
@@ -53,7 +53,7 @@ A purist would no doubt say this effectively 'contaminated' the observation howe
 
 ## Subject 1
 
-<iframe width="560" height="315" src="https://drive.google.com/file/d/108-95kjx07vrltROM44BFgQDuGn2S20e/preview" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/108-95kjx07vrltROM44BFgQDuGn2S20e/preview" width="640" height="480" allow="fullscreen"></iframe>
 
 Highlights:
 
@@ -66,7 +66,7 @@ Highlights:
 
 ## Subject 2
 
-<iframe width="560" height="315" src="https://drive.google.com/file/d/10GqTR6R4-PDY6flcvGit2LBasO8hJEUn/preview" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/10GqTR6R4-PDY6flcvGit2LBasO8hJEUn/preview" width="640" height="480" allow="fullscreen"></iframe>
 
 Highlights:
 
@@ -76,7 +76,7 @@ Highlights:
 
 ## Subject 3
 
-<iframe width="560" height="315" src="https://drive.google.com/file/d/10IrDVypCsniiPzHB_ilq2g3P3ow8W4Jo/preview" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/10IrDVypCsniiPzHB_ilq2g3P3ow8W4Jo/preview" width="640" height="480" allow="fullscreen"></iframe>
 
 Highlights:
 
