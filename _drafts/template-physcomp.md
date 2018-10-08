@@ -1,7 +1,7 @@
 ---
 layout:       single
-title:        "PhysComp Week 2: Switch"
-date:         2018-09-18 19:02:01 -04:00
+title:        "PhysComp Week x: blah"
+date:         
 categories:   PhysComp
 ---
 
