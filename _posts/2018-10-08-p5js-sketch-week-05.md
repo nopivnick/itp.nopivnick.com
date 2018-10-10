@@ -5,11 +5,7 @@ date:         2018-10-08 21:29:03 -04:00
 categories:   ICM
 ---
 
-# Something visual
-
-My sketch code for this week can be found [here](https://editor.p5js.org/nopivnick/sketches/rydyCzKqm).
-
-<iframe src="https://editor.p5js.org/embed/rydyCzKqm"></iframe>
+My sketch for this week can be found [here](https://editor.p5js.org/nopivnick/sketches/rydyCzKqm).
 
 # Some thoughts
 
