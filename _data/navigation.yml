@@ -4,6 +4,8 @@ main:
   #   url: /about/
   - title: "Categories"
     url: /categories/
+  - title: "Fab"
+    url: /categories/fab/
   - title: "ICM"
     url: /categories/icm/
   - title: "PhysComp"
