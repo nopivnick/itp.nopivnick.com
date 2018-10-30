@@ -6,6 +6,8 @@ main:
     url: /categories/
   - title: "Fab"
     url: /categories/fab/
+  - title: "Haptics"
+    url: /categories/haptics/
   - title: "ICM"
     url: /categories/icm/
   - title: "PhysComp"
