@@ -21,7 +21,7 @@ Most non-linear narrative at the time was poorly written and generally un-sophis
 
 Navigation requires action, and taking action requires choice. But choices do not necessarily beget expected outcomes and part of the magic of non-linear narrative is the logic underlying how you got from here to the next place were not always transparent.
 
-Consequently, non-linear narratives often evoked a kind of anxiety, be it fear of missing out or just plain disorientation. It could be those anxieties are a generational thing and no longer of any consequence but I suspect
+Consequently, non-linear narratives often evoked a kind of anxiety, be it fear of missing out or just plain disorientation. It could be those anxieties are a generational thing and no longer of any consequence.
 
 I came to ITP with an interest in exploring what a tactile interface for non-linear narrative that affords some sense of narrative progression without being explicit might look like.
 
@@ -37,4 +37,4 @@ It occurred to me earlier today that using a multimeter is an explicit act of pr
 
 So maybe a tangible interface for a non-linear narrative, a story with logic that changes based on probing but also unfolds in some coherent, compelling way looks something like this:
 
-<iframe src="https://drive.google.com/file/d/1CpOjtPEfLU_QhRcR4eaSkhBQdViOEuQV/preview" width="640" height="480"></iframe>
+![image-title-here](/assets/images/IMG_3635.jpg)
