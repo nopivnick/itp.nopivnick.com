@@ -15,25 +15,25 @@ So be it.
 
 I studied hypertext fiction in college and my thesis was a narrative written in one of the first hypertext authoring environments called StorySpace.
 
-During that time, and for a time after graduation, I pondered what kind of narrative aesthetic might best lend itself to an digital non-linear form. That's part of it, certainly. What kind of story lends itself to the form.
+During that time, and for a time after graduation, I pondered what kind of narrative aesthetic might best lend itself to a digital non-linear form. That's part of it, certainly. What kind of story lends itself to the form.
 
-Most non-linear narrative at the time was poorly written and generally un-sophisticated but the more interesting narrative considerations revolved around how, whether or not, and to what extent, the reader understood navigation.
+At the time most non-linear narrative was poorly written and generally speaking fairly un-sophisticated but the more interesting narrative considerations explored how, whether or not, and to what extent, the reader understood navigation.
 
-Navigation requires action, and taking action requires choice. But choices do not necessarily beget expected outcomes and part of the magic of non-linear narrative is the logic underlying how you got from here to the next place were not always transparent.
+Navigation requires action, and taking action requires choice. But choices do not necessarily beget expected outcomes. The magic of digital non-linear narrative is the logic underlying how you get from here to the next place and that logic is not necessarily always transparent to the reader.
 
-Consequently, non-linear narratives often evoked a kind of anxiety, be it fear of missing out or just plain disorientation. It could be those anxieties are a generational thing and no longer of any consequence.
+Consequently, non-linear narratives often evoked a kind of anxiety, whether it be a fear of missing out or just plain disorientation. It could be those anxieties are a generational thing and no longer of any significant consequence but narrative is at it's best when it's progression is coherent.
 
-I came to ITP with an interest in exploring what a tactile interface for non-linear narrative that affords some sense of narrative progression without being explicit might look like.
+I came to ITP with an interest in exploring what a tactile interface for digital non-linear narrative that affords some experience of narrative progression without being explicit might look like.
 
-Something like what Bret Victor mentions in one of our first readings, [A Brief Rant on the Future of Interaction Design](http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/), when he describes the phenomena of holding a book and sensing, if only subconsciously, one's progression based on how much material (the number of pages) one holds in either hand yet not yet knowing where the story is going.
+In one of our first reading assignments, [A Brief Rant on the Future of Interaction Design](http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/), Bret Victor describes the physical sensation of holding a book and being aware of, if only subconsciously, one's progression based on how much material (the number of pages) one holds in either hand. There's comfort in knowing how far one has come and how far one has to go despite not knowing where the story will end.
 
-Years ago, well before I stumbled upon Victor, I used to cite that very phenomena as a counterpoint to what digital non-linear narrative was lacking.
+Years ago, well before I first stumbled upon Victor, I used to cite that very phenomena as a counterpoint to what digital non-linear narrative lacked.
 
-For all the advances in display technology, there are those of us of a certain age who have not yet relinquished the last vestiges of a print culture. I like paper. Bunnie Huang has written on the benefits of [Paper As a Substrate for Circuits](https://www.bunniestudios.com/blog/?p=5259). I like that constructing paper circuits is a kind of writing on the page, and I like that electronic circuits can be embody, at least to the extent I understand them, logic.
+For all the advances in display technology, there are still those of us of a certain age who have not yet relinquished the last vestiges of a print culture. Bunnie Huang has written on the benefits of [Paper As a Substrate for Circuits](https://www.bunniestudios.com/blog/?p=5259). I like paper. I like that constructing paper circuits is a kind of writing on the page, and I like that electronic circuits can be embody, at least to the extent I understand them, logic.
 
-One of the challenges in navigating a text with many paths, I think, is how to let the user probe. Probing is imperfect. It infers -- at least to my mind -- the first stage of exploration. You don't yet know what you're going to find, and there's a waiting for results. And that waiting is often proportional to how far down the path you choose to probe.
+One of the challenges in navigating a text with many paths is how to let the user probe. Probing yields incomplete, if not imperfect, results. It's often the first step in exploration. You don't yet know what you're going to find, and there's a waiting for results. And that waiting is often proportional to how far down the path you choose to probe.
 
-It occurred to me earlier today that using a multimeter is an explicit act of probing, and that troubleshooting a circuit, perhaps more accurately a circuit about which you know nothing, is both an act of discovery and a search for meaning. It's a way to map the connections between individual components that taken as a whole tell a kind of story.
+It occurred to me earlier today that using a multimeter is an explicit act of probing, and that troubleshooting a circuit, perhaps more accurately a circuit about which you know nothing, is both an act of discovery and a search for meaning. It's a way to map the connections between individual components that taken as a whole, tell a kind of story.
 
 So maybe a tangible interface for a non-linear narrative, a story with logic that changes based on probing but also unfolds in some coherent, compelling way looks something like this:
 
