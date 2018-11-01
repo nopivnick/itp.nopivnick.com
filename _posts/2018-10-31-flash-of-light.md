@@ -1,15 +1,15 @@
 ---
 layout:       single
-title:        "FAB Week 1: Flashlight"
+title:        "Fab Week 1: Flashlight"
 date:         2018-10-31 17:43:00 -04:00
 categories:   Fab
 ---
 
 # Inspiration
 
-I suppose my inspiration came from a general appreciation for industrial design and a lifelong feeling that injection molded plastic objects with interesting shapes that fit together just cry out to be used in some context other than their original purpose.
+I suppose my inspiration came from a general appreciation for industrial design and a lifelong feeling that injection molded plastic objects with interesting shapes that fit together well cry out to be used in some context other than their original intended purpose.
 
-In this case in particular, I've always loved the mechanical simplicity of the worm drive so often incorporated into deodorant sticks.
+In this particular case, I've always loved the mechanical simplicity of the worm drive used in deodorant sticks.
 
 <iframe src="https://drive.google.com/file/d/1DCyVJBNcyOO0rvs2YdNcAQdeAohiewEn/preview" width="640" height="480"></iframe>
 
