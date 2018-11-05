@@ -106,4 +106,6 @@ And lastly, I insisted we add a tail so Beverly made fast work at the soft lab a
 
 <iframe src="https://drive.google.com/file/d/1ri4b6KOORObG4nSoWMHYWtsEZoucNkez/preview" width="640" height="480"></iframe>
 
-I'm convinced the tail and the cleaner wiring adds to the anthropomorphization and as a consequence improves the interaction. To that end, I would like to point out -- for the record -- this project received the Tom Igoe stamp of approval (plus smile no less) but tragically I was not fast enough to capture it on camera.
+I'm convinced the tail and the cleaner wiring adds to the anthropomorphization and as a consequence improves the interaction.
+
+On that note, I would like to point out -- for the record -- this project received the Tom Igoe stamp of approval (replete with smile, no less) but tragically I was not fast enough to capture it on camera.
