@@ -13,17 +13,19 @@ There were a number of particulars everyone agreed needed attention, the first b
 
 Our thinking was the interaction was best if the sensors were in a position to take their readings prior to any vibrating motors.
 
-We also thought it would be better to embed the vibrating motors flush with the surface of the cardboard on which they were mounted if for no other reason than the user would be less likely to discern their profile while petting the fur (again, it was faux):
+We also thought it would be better to embed the vibrating motors flush with the surface of the cardboard on which they were mounted, if for no other reason than the user would be less distracted by their profile while administering the petting:
 
 <iframe src="https://drive.google.com/file/d/1oMGOoFJFR1geTDEmMHULVVoml9QtVALm/preview" width="640" height="480"></iframe>
 
-It was a nice idea, and certainly made for a cleaner presentation, but unfortunately it significantly diminished the intensity of the vibration traveling through the cardboard substrate. Perhaps if the fit had been more precise it would have been different but I suspect given their design it's better for the motors to be surface mounted rather than embedded. If I had to guess, I'd say it's probably something to do with the way the actuator moves inside the motor.
+It was a nice idea, and certainly made for a cleaner presentation, but unfortunately it significantly diminished the intensity of the vibration traveling through the cardboard substrate.
+
+Perhaps if the fit had been more precise it would have been different but I suspect given their design it's better for the motors to be surface mounted rather than embedded. If I had to guess, I'd say it's probably something to do with the way the actuator moves inside the motor.
 
 Next, in an attempt to clean up our wiring, we borrowed a wire wrapper and went to town:
 
 <iframe src="https://drive.google.com/file/d/1-96NVsDlwuNyzBkvb54RLCwhOUElJ1eT/preview" width="640" height="480"></iframe>
 
-Inspired by our new found love of wire wrapping, and loath to try and solder headers to the delicate leads of the vibrating motors, I had a flash of inspiration and managed to wrap the motor leads themselves directly to the header pins!
+Converts, all! Inspired by our new found respect for elegance of wire wrapping, and loath to try and solder headers to the delicate leads of the vibrating motors, I had a flash of inspiration and managed to wrap the motor leads themselves directly to the header pins! The world of haptics will never be the same.
 
 <iframe src="https://drive.google.com/file/d/1dHRkqfYMUzeKSnDxtKLyV24nrMCR7Rxs/preview" width="640" height="480"></iframe>
 
@@ -100,7 +102,7 @@ Caleb's first pass from the Haptic Buffet session involved measuring a threshold
 
 In retrospect, it occurred to me I had assumed we'd used one of the effects defined by the Arduino library that accompanies the [Adafruit DRV2605L Haptic Motor Controllers](https://www.adafruit.com/product/2305) but in actuality Caleb had written code that simulated the rise and fall of a cat's purr.
 
-Lastly, I insisted we add a tail so Beverly made fast work at the soft lab and demonstrated some fine sewing skills:
+And lastly, I insisted we add a tail so Beverly made fast work at the soft lab and demonstrated some fine sewing skills:
 
 <iframe src="https://drive.google.com/file/d/1ri4b6KOORObG4nSoWMHYWtsEZoucNkez/preview" width="640" height="480"></iframe>
 
