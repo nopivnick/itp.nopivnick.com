@@ -25,7 +25,9 @@ Next, in an attempt to clean up our wiring, we borrowed a wire wrapper and went 
 
 <iframe src="https://drive.google.com/file/d/1-96NVsDlwuNyzBkvb54RLCwhOUElJ1eT/preview" width="640" height="480"></iframe>
 
-Converts, all! Inspired by our new found respect for elegance of wire wrapping, and loath to try and solder headers to the delicate leads of the vibrating motors, I had a flash of inspiration and managed to wrap the motor leads themselves directly to the header pins! The world of haptics will never be the same.
+Converts, all!
+
+Inspired by our new found respect for wire wrapping elegance, and loath to try soldering headers to the delicate leads of the vibrating motors, I had a flash of inspiration and managed to wrap the motor leads themselves directly to the header pins. The world of haptics will never be the same.
 
 <iframe src="https://drive.google.com/file/d/1dHRkqfYMUzeKSnDxtKLyV24nrMCR7Rxs/preview" width="640" height="480"></iframe>
 
