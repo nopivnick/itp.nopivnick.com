@@ -35,7 +35,7 @@ Speaking only for myself, it was especially rewarding to see Antonio check out t
 
 Below is the code as it was written by end of the weekend session:
 
-```C
+```c++
 //vibrating motor pins
 #define PINA 11
 #define PINB 10
