@@ -11,7 +11,7 @@ Antonio generously offered to compile notes and [authored a blog post](https://w
 
 I'd like, if I may, to add my own addendum to Antonio's post, if only just to say a few quick words about my experience working together.
 
-Antonio, for those readers not part of the present ITP community, is blind and this was the first time I've collaborated to any significant degree with someone who did not have the use of sight.
+Antonio, for those readers not currently members of the ITP community, is blind. This was the first time I've collaborated to any significant degree with someone who did not have the use of sight.
 
 There is of course the old cliche about 'seeing something anew through someone else's eyes' and I've certainly had that experience (often pleasurable, though sometimes painful, especially when it comes to confronting one's own less than attractive behavior).
 
