@@ -93,6 +93,8 @@ N/A
 
 # Conclusions
 
-This is the first time I've ever sand cast.
+This is the first time I've cast in sand.
 
-I would have loved to have done this project in brass or bronze, but I have no access to a foundry and the temperatures required to liquify those metals are significantly higher than pewter, which is predominantly tin. Even brass or bronze alloys require 1500 degrees or so to flow, as opposed to the 500 degrees or so for pewter.
+Clearly this is a complicated process with many variables and I was definitely winging it. The casts were far from perfect and clearly not uniformly consistent. I'd chock this up to lack of experience first and foremost but I suspect it has something to do with the fine detail of the object I was using as a positive. No doubt lost wax would give much better results.
+
+I would have loved to have done this project in brass or bronze, but temperatures required to liquify those metals are significantly higher than pewter which is predominantly tin and I have no access to a foundry. Even brass or bronze alloys require 1500 degrees or so to flow, as opposed to the 500 degrees or so for pewter.
