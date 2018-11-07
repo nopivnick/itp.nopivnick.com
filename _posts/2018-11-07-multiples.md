@@ -30,7 +30,11 @@ N/A
 
 <iframe src="https://drive.google.com/file/d/1EjEU6Sxa62IZyKkrpNCVAtWf-ng-CbMO/preview" width="640" height="480"></iframe>
 
+Nice, square lines cored on a piece of square 3/4" ply, which were totally botched by a poorly aligned miter saw. It was stupid of me not to check the alignment and cost me a fair bit of sanding to get things sorted.
+
 <iframe src="https://drive.google.com/file/d/1EnrOZ2gY5eHhRrn1IqriUT7XPdQ5bLSv/preview" width="640" height="480"></iframe>
+
+Pocket screw jig in action. Just because. Because of the size of the form there was no reasonable way a driver would have seated in the pocket screws had the pockets been inside the form so I had to think through the order of operations for a moment to be certain pockets facing out would work.
 
 <iframe src="https://drive.google.com/file/d/1Eau_8uKa9qF-mPUfG9JkCMFCD102Kk2k/preview" width="640" height="480"></iframe>
 
@@ -93,7 +97,7 @@ N/A
 
 # Conclusions
 
-This is the first time I've cast in sand.
+This is my first time casting in sand.
 
 Clearly this is a complicated process with many variables and I was definitely winging it. The casts were far from perfect and clearly not uniformly consistent. I'd chock this up to lack of experience first and foremost but I suspect it has something to do with the fine detail of the object I was using as a positive. No doubt lost wax would give much better results.
 
