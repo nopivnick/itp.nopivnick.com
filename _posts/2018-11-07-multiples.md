@@ -9,11 +9,11 @@ categories:   Fab
 
 I've always been mesmerized by metal casting in sand.
 
-I'm not entirely sure entirely sure where it comes from but I've been known to binge on episodes of [How It's Made](https://www.sciencechannel.com/tv-shows/how-its-made/) and the images of molten metal pouring into forms made of sand and emerging as solid forms as the form crumbles away makes me especially happy.
+I'm not entirely sure where the fascination comes from but I've been known to binge on episodes of [How It's Made](https://www.sciencechannel.com/tv-shows/how-its-made/) and the images of molten metal pouring into forms made of sand and emerging as solid objects as the form crumbles away has always made me especially happy.
 
 Some of it has to do with reusability. Each of the fundamental components of the process are reusable: the positive (the shape that's used to make the impression, years ago they were made from wood), the casting sand, the metal itself, reusable all.
 
-Sand casting is, admittedly, a 'creative interpretation' of the repeatability assignment for this week but from a certain perspective, it's sort of the universal jig.
+Admittedly, sand casting is a 'creative interpretation' of the repeatability assignment for this week but if you think about it, from a certain perspective, it's sort of a universal jig.
 
 
 # Drawings
