@@ -92,3 +92,7 @@ N/A
 
 
 # Conclusions
+
+This is the first time I've ever sand cast.
+
+I would have loved to have done this project in brass or bronze, but I have no access to a foundry and the temperatures required to liquify those metals are significantly higher than pewter, which is predominantly tin. Even brass or bronze alloys require 1500 degrees or so to flow, as opposed to the 500 degrees or so for pewter.
