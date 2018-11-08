@@ -124,6 +124,11 @@ A steel ruler makes for a good thin edge to chop up the casting sand and get it 
 
 <iframe src="https://drive.google.com/file/d/1DhPv3eFji2LZaSYALymuqGPTfo6UIruZ/preview" width="640" height="480"></iframe>
 
+First cast.
+
+<iframe src="https://drive.google.com/file/d/1Frz73wWyWViAR8xB_76SotX1YrTj2cdI/preview" width="640" height="480"></iframe>
+
+Five multiples with the cleanest cast featured prominently in the foreground.
 
 # Conclusions
 
