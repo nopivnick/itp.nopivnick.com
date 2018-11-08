@@ -74,9 +74,9 @@ Then the rest of the flask is filled, rammed, and scraped across the frame to cr
 
 <iframe src="https://drive.google.com/file/d/1F5xUrDRfOn6C__OrWZ7_4srh2_B6Phem/preview" width="640" height="480"></iframe>
 
-<iframe src="https://drive.google.com/file/d/1F3J71PQ-T5LEpC8YXGt1IcgaI-1ScNmX/preview" width="640" height="480"></iframe>
-
 <iframe src="https://drive.google.com/file/d/1F3RId0tkCv0koo_yt-iVka-_65EXrV1F/preview" width="640" height="480"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1F3J71PQ-T5LEpC8YXGt1IcgaI-1ScNmX/preview" width="640" height="480"></iframe>
 
 The impression from my first mould was a mess. A lot of sand broke free from the mould when I removed the pattern.
 
