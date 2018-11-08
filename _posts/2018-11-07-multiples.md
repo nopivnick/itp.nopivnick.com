@@ -34,7 +34,7 @@ Nice square lines scored on a piece of square 3/4" ply, completely botched by a 
 
 <iframe src="https://drive.google.com/file/d/1EnrOZ2gY5eHhRrn1IqriUT7XPdQ5bLSv/preview" width="640" height="480"></iframe>
 
-Pocket screw jig action. Just because. I'm a convert, 100%.
+Pocket screw jig action. Just because. Love it.
 
 <iframe src="https://drive.google.com/file/d/1Eau_8uKa9qF-mPUfG9JkCMFCD102Kk2k/preview" width="640" height="480"></iframe>
 
@@ -43,6 +43,10 @@ Given the scale at which I'm working there was no reasonable way a driver could 
 <iframe src="https://drive.google.com/file/d/1EaI2qog0VLSFoRn8NAv3j7wjrL03RBle/preview" width="640" height="480"></iframe>
 
 <iframe src="https://drive.google.com/file/d/1EGNx9WnzEm3yud61RC59qu5tt_CCcXaJ/preview" width="640" height="480"></iframe>
+
+I believe technically this block of would, together with the Arduino, is called the pattern.
+
+The wood block is deeper than the intended cast because you don't want to have to pour right up to the lip of the mould and risk molten metal spilling over. With casts made from two or more sides this function is provided in part by the gate (also used to regulate the flow of molten metal).
 
 <iframe src="https://drive.google.com/file/d/1EWnGmDQh99MSADy5R_EBk29_gl-I8V1E/preview" width="640" height="480"></iframe>
 
