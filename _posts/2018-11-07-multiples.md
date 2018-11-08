@@ -9,7 +9,7 @@ categories:   Fab
 
 I've always been mesmerized by metal casting in sand.
 
-I'm not entirely sure where the fascination comes from but I've been known to binge on episodes of [How It's Made](https://www.sciencechannel.com/tv-shows/how-its-made/) and the images of molten metal pouring into forms made of sand and emerging as solid objects as the form crumbles away has always made me especially happy.
+I'm not entirely sure where the fascination comes from but I've been known to binge on episodes of [How It's Made](https://www.sciencechannel.com/tv-shows/how-its-made/) and the images of molten metal pouring into forms made of sand and emerging as solid objects as the sand crumbles away has always made me especially happy.
 
 Some of it has to do with reusability. Each of the fundamental components of the process are reusable: the positive (the shape that's used to make the impression, years ago they were made from wood), the casting sand, the metal itself, reusable all.
 
@@ -34,9 +34,11 @@ Nice square lines scored on a piece of square 3/4" ply, completely botched by a 
 
 <iframe src="https://drive.google.com/file/d/1EnrOZ2gY5eHhRrn1IqriUT7XPdQ5bLSv/preview" width="640" height="480"></iframe>
 
-Pocket screw jig action. Just because. Given the scale I'm working at there was no reasonable way a driver could have seated properly in the screw heads had the pockets been facing inward so I had to think through the order of operations for a moment to be certain pockets facing out would work. Not an especially difficult conclusion to come to but this was my first go with pocket screws and I was still smarting from the miter saw fiasco.
+Pocket screw jig action. Just because. I'm a convert, 100%.
 
 <iframe src="https://drive.google.com/file/d/1Eau_8uKa9qF-mPUfG9JkCMFCD102Kk2k/preview" width="640" height="480"></iframe>
+
+Given the scale at which I'm working there was no reasonable way a driver could have seated properly in the screw heads had the pockets been facing inward so I made certain to think through the order of operations for a moment and be certain pockets facing out would work. Not an especially difficult mental calculation but this was my first go with pocket screws and I was still smarting from the miter saw fiasco.
 
 <iframe src="https://drive.google.com/file/d/1EaI2qog0VLSFoRn8NAv3j7wjrL03RBle/preview" width="640" height="480"></iframe>
 
