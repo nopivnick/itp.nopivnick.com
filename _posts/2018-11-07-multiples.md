@@ -44,13 +44,17 @@ Given the scale at which I'm working there was no reasonable way a driver could 
 
 <iframe src="https://drive.google.com/file/d/1EGNx9WnzEm3yud61RC59qu5tt_CCcXaJ/preview" width="640" height="480"></iframe>
 
-I believe technically this block of would, together with the Arduino, is called the pattern.
+I believe technically this block of wood, together with the Arduino, is called the pattern.
 
 The wood block is deeper than the intended cast because you don't want to have to pour right up to the lip of the mould and risk molten metal spilling over. With casts made from two or more sides this function is provided in part by the gate (also used to regulate the flow of molten metal).
 
 <iframe src="https://drive.google.com/file/d/1EWnGmDQh99MSADy5R_EBk29_gl-I8V1E/preview" width="640" height="480"></iframe>
 
+I put a bevel on the block to make it easer to pull from the sand.
+
 <iframe src="https://drive.google.com/file/d/1FWZi4dfx2LsEf8poBudXm-Uh0Q7Wq4go/preview" width="640" height="480"></iframe>
+
+Talc powder is used as a release agent to keep the casting sand from sticking to the pattern.
 
 <iframe src="https://drive.google.com/file/d/1FMaq5t8gTO2CsMypVrqsP9Q7b8ulG_H-/preview" width="640" height="480"></iframe>
 
@@ -58,9 +62,15 @@ The wood block is deeper than the intended cast because you don't want to have t
 
 <iframe src="https://drive.google.com/file/d/1Fp3efgFg4DD-vXtUe31U7ndHbtmh-c8V/preview" width="640" height="480"></iframe>
 
+The wood frame is referred to as a flask. After my first cast I started filling the flask using a thin piece of card stock torn from a mailer so I could distribute the sand with a little more control than was the case by hand.
+
 <iframe src="https://drive.google.com/file/d/1FA-CxQDI2sc0znDteF_1P7iSJyMdYcE2/preview" width="640" height="480"></iframe>
 
+At this point the sand has been packed -- or rammed -- to a height that covers the pattern.
+
 <iframe src="https://drive.google.com/file/d/1F3hNKqye4pPtKOA1MKcwYV1miXUotRyQ/preview" width="640" height="480"></iframe>
+
+Then the rest of the flask is filled, rammed, and scraped to create a flat surface.
 
 <iframe src="https://drive.google.com/file/d/1F5xUrDRfOn6C__OrWZ7_4srh2_B6Phem/preview" width="640" height="480"></iframe>
 
