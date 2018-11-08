@@ -7,11 +7,11 @@ categories:   Fab
 
 # Inspiration
 
-I've always been mesmerized by metal casting in sand.
+I've always been mesmerized by sand casting metal.
 
-I'm not entirely sure where the fascination comes from but I've been known to binge on episodes of [How It's Made](https://www.sciencechannel.com/tv-shows/how-its-made/) and the images of molten metal pouring into forms made of sand and emerging as solid objects as the sand crumbles away has always made me especially happy.
+I'm not entirely sure where the fascination comes from but I've been known to binge on episodes of [How It's Made](https://www.sciencechannel.com/tv-shows/how-its-made/) and the segments that involve molten metal pouring into forms made of sand then emerging as solid objects as the sand crumbles away has always given me delight.
 
-Some of it has to do with reusability. Each of the fundamental components of the process are reusable: the positive (the shape that's used to make the impression, years ago they were made from wood), the casting sand, the metal itself, reusable all.
+Some part of the interest undoubtedly has to do with reusability which is, I would argue, close kin to repeatability. Each of the fundamental components of the process are reusable: the pattern (the shape that's used to make the impression, years ago they were made from wood), the casting sand, the metal itself, reusable all.
 
 Admittedly, sand casting is a 'creative interpretation' of the repeatability assignment for this week but if you think about it, from a certain perspective, it's sort of a universal jig.
 
@@ -44,9 +44,9 @@ Given the scale at which I'm working there was no reasonable way a driver could 
 
 <iframe src="https://drive.google.com/file/d/1EGNx9WnzEm3yud61RC59qu5tt_CCcXaJ/preview" width="640" height="480"></iframe>
 
-I believe technically this block of wood, together with the Arduino, is called the pattern.
+Technically this block of wood, together with the Arduino, is called the pattern.
 
-The wood block is deeper than the intended cast because you don't want to have to pour right up to the lip of the mould and risk molten metal spilling over. With casts made from two or more sides this function is provided in part by the gate (also used to regulate the flow of molten metal).
+The wood block is deeper than the intended cast because you don't want to have to pour right up to the lip of the mould and risk molten metal spilling over. With casts made from moulds with two or more sides, this function is provided by a conical shaped depression called the gate, which also helps regulate the flow of molten metal as it enters the mould.
 
 <iframe src="https://drive.google.com/file/d/1EWnGmDQh99MSADy5R_EBk29_gl-I8V1E/preview" width="640" height="480"></iframe>
 
@@ -62,7 +62,7 @@ Talc powder is used as a release agent to keep the casting sand from sticking to
 
 <iframe src="https://drive.google.com/file/d/1Fp3efgFg4DD-vXtUe31U7ndHbtmh-c8V/preview" width="640" height="480"></iframe>
 
-The wood frame is referred to as a flask. After my first cast I started filling the flask using a thin piece of card stock torn from a mailer so I could distribute the sand with a little more control than was the case by hand.
+Apparently the wood frame is referred to as a flask. Since there's so little space in the flask, after my first cast I started depositing sand using a thin piece of card stock torn from a mailer.
 
 <iframe src="https://drive.google.com/file/d/1FA-CxQDI2sc0znDteF_1P7iSJyMdYcE2/preview" width="640" height="480"></iframe>
 
@@ -70,31 +70,35 @@ At this point the sand has been packed -- or rammed -- to a height that covers t
 
 <iframe src="https://drive.google.com/file/d/1F3hNKqye4pPtKOA1MKcwYV1miXUotRyQ/preview" width="640" height="480"></iframe>
 
-Then the rest of the flask is filled, rammed, and scraped to create a flat surface.
+Then the rest of the flask is filled, rammed, and scraped to create a flat surface so the mould sits flat when you flip it over.
 
 <iframe src="https://drive.google.com/file/d/1F5xUrDRfOn6C__OrWZ7_4srh2_B6Phem/preview" width="640" height="480"></iframe>
 
 <iframe src="https://drive.google.com/file/d/1F3J71PQ-T5LEpC8YXGt1IcgaI-1ScNmX/preview" width="640" height="480"></iframe>
 
-While not exactly a pancake, this was my first bad impression. A lot of sand broke free from the mould when I removed the pattern.
+While not exactly a pancake, my first bad impression was a mess. A lot of sand broke free from the mould when I removed the pattern.
 
 <iframe src="https://drive.google.com/file/d/1EqQAY-qiqdzWjlhkbHDQMlJVsxGtCFY2/preview" width="640" height="480"></iframe>
 
-A heavier dusting of talc produced better results.
+A heavier dusting of talc and a lighter touch ramming the sand produced a better result.
 
 <iframe src="https://drive.google.com/file/d/1Do7gIrMOUPEKwDabUPjNbJfaCoRj0nFg/preview" width="640" height="480"></iframe>
 
-Due to the No Open Flame policy at ITP, I had to find someplace to cast. I ended up in the back alley behind my apartment building to cast and making trips back to the apartment after each pour to re-pack the mould.
+Due to the No Open Flame policy at ITP, I had to find someplace to cast. I ended up pouring in the back alley behind my apartment building and returning to the apartment to re-pack the mould.
 
 <iframe src="https://drive.google.com/file/d/1Fh3IhJPoT_md75eAA8kzCpcLAAxYojqC/preview" width="640" height="480"></iframe>
 
-After the second pour I got some strange looks form the super while waiting for the elevator so I relocated to the privacy of my bathroom. The ready availability of the shower head above seemed like a reasonable mediating factor. 
+After the second pour I got some strange looks from the super while waiting for the elevator so I relocated to the privacy of my bathroom. The ready availability of the shower head above seemed like a reasonable enough safety precaution.
 
 <iframe src="https://drive.google.com/file/d/1Dnh5001eKKk9MHMynQHHns8DwM5r5Ncb/preview" width="640" height="480"></iframe>
 
 <iframe src="https://drive.google.com/file/d/1DiGmx2Qt3cvMfevr83eWvXDoqLxGMbzG/preview" width="640" height="480"></iframe>
 
+Once you break the mould and remove the casting, the packed sand comes out in large chunks.
+
 <iframe src="https://drive.google.com/file/d/1DeTU3GspYEtVWWtRpUZady2WDP4b7R_2/preview" width="640" height="480"></iframe>
+
+A steel ruler makes for a good thin edge to chop up the casting sand and get it ready to prepare another mould.
 
 
 # List of Tools Used
@@ -123,6 +127,12 @@ After the second pour I got some strange looks form the super while waiting for 
 
 This is my first time casting in sand.
 
-Clearly this is a complicated process with many variables and I was definitely winging it. The casts were far from perfect and clearly not uniformly consistent. I'd chock this up to lack of experience first and foremost but I suspect it has something to do with the fine detail of the object I was using as a positive. No doubt lost wax would give much better results.
+I would have loved to have done this project in brass or bronze, but the temperatures required to liquify those metals are significantly higher than pewter, which is predominantly tin. Even brass and bronze alloys require in the vicinity of 1500 degrees or more to flow, as opposed to the 500 degrees or so for pewter.
 
-I would have loved to have done this project in brass or bronze, but temperatures required to liquify those metals are significantly higher than pewter which is predominantly tin and I have no access to a foundry. Even brass or bronze alloys require 1500 degrees or so to flow, as opposed to the 500 degrees or so for pewter.
+Clearly this is a complicated process with many variables. The casts were inconsistent, to be sure. Lack of knowledge and experience aside, no doubt some of the issues were to do with the shape of the object I was using as a positive. I imagine lost wax casting would give much better results.
+
+The casts appear to have gotten increasingly oxidized with each pour and I have no idea what that's about. I know the clay that acts as binder burns away and breaks down over time but that seems an unlikely explanation given I poured such a small number of casts.
+
+All in all I'd say I got one good casting and the rest were of varying of success but one nice thing about a cast from an imperfect mould is you can fix the cast by simply removing material.
+
+Or melt them down and go again.
