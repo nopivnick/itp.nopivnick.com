@@ -76,7 +76,11 @@ Then the rest of the flask is filled, rammed, and scraped to create a flat surfa
 
 <iframe src="https://drive.google.com/file/d/1F3J71PQ-T5LEpC8YXGt1IcgaI-1ScNmX/preview" width="640" height="480"></iframe>
 
+While not exactly a pancake, this was my first bad impression. A lot of sand broke free from the mould when I removed the pattern.
+
 <iframe src="https://drive.google.com/file/d/1EqQAY-qiqdzWjlhkbHDQMlJVsxGtCFY2/preview" width="640" height="480"></iframe>
+
+A heavier dusting of talc produced better results.
 
 <iframe src="https://drive.google.com/file/d/1Do7gIrMOUPEKwDabUPjNbJfaCoRj0nFg/preview" width="640" height="480"></iframe>
 
