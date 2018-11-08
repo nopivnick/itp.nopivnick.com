@@ -84,7 +84,11 @@ A heavier dusting of talc produced better results.
 
 <iframe src="https://drive.google.com/file/d/1Do7gIrMOUPEKwDabUPjNbJfaCoRj0nFg/preview" width="640" height="480"></iframe>
 
+Due to the No Open Flame policy at ITP, I had to find someplace to cast. I ended up in the back alley behind my apartment building to cast and making trips back to the apartment after each pour to re-pack the mould.
+
 <iframe src="https://drive.google.com/file/d/1Fh3IhJPoT_md75eAA8kzCpcLAAxYojqC/preview" width="640" height="480"></iframe>
+
+After the second pour I got some strange looks form the super while waiting for the elevator so I relocated to the privacy of my bathroom. The ready availability of the shower head above seemed like a reasonable mediating factor. 
 
 <iframe src="https://drive.google.com/file/d/1Dnh5001eKKk9MHMynQHHns8DwM5r5Ncb/preview" width="640" height="480"></iframe>
 
