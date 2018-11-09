@@ -7,7 +7,7 @@ categories:   PhysComp
 
 I studied electronic literature and hypertext fiction in college.
 
-My thesis was a narrative written in [StorySpace](http://www.eastgate.com/storyspace/), the first true hypertext authoring environment created specifically for writers. The English department came very close to denying me my diploma because I submitted the required two copies of my thesis on two 3.5 inch floppy disks whereas departmental policy stipulated two copies, printed and bound.
+My thesis was a narrative written in [StorySpace](http://www.eastgate.com/storyspace/), the first true hypertext authoring environment created specifically for writers. The English department came very close to denying me my diploma because I submitted the requisite two copies of my thesis on 3.5 inch floppy disks whereas departmental policy stipulated two copies, printed and bound.
 
 This was in 1995.
 
