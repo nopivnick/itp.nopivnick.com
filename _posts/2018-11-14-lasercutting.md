@@ -7,7 +7,7 @@ categories:   Fab
 
 # Inspiration
 
-
+Inspired by the promise of precision dimensioning, I chose to lasercut an 8 square sliding puzzle out of 1/8" hardboard (aka Masonite).
 
 # Drawings
 
@@ -41,6 +41,7 @@ categories:   Fab
 * Panel saw
 * Adobe Illustrator
 * Laser cutter
+* C-clamp
 
 # Final Image(s) of the Work
 
