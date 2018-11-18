@@ -41,7 +41,7 @@ Inspired by the promise of precision dimensioning, I chose to lasercut an 8 squa
 * Panel saw
 * Adobe Illustrator
 * Laser cutter
-* C-clamp
+* 8" C-clamp
 
 # Final Image(s) of the Work
 
