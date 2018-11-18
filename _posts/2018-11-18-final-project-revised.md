@@ -38,3 +38,5 @@ Maybe I can buy some knit sweaters at a thrift shop and they can be unravelled a
 Or perhaps the yarn spins an umbrella swift (all new terminology to me) and makes it's way to the winder, the swift [spinning round](https://youtu.be/4CZBnsvDNBI?t=135), stripped of yarn, and slowing to a stop as the poem concludes.
 
 Whirling Dervishes come to mind. And Moviolas.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4CZBnsvDNBI?start=136" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
