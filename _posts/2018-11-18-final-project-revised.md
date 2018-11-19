@@ -17,19 +17,21 @@ What to do.
 
 I'm still drawn to tangible interfaces for electronic text but it would probably be best to simplify and step back from non-linear narrative. At least for the time being.
 
-At some point in the days following the playtesting debacle, desperate for a new direction, I had a fleeting notion of progressing through a text by pulling at a string of yarn. As fate would have it, just yesterday my friend Michael Joyce shared with me a collection of twenty poems he'd written but never published. The collection is titled "Creaturely Life: twenty pre-elegies", written in stream of consciousness from the point of view of a woman keeping vigil over her dying husband and the last poem ends with a vision of the narrator knitting beside her husband's deathbed.
+At some point in the days following the playtesting debacle, desperate for a new direction, I had a fleeting notion of progressing through a text by pulling at a string of yarn. As fate would have it, just yesterday my friend Michael Joyce shared with me a collection of twenty poems he'd written but never published. The collection is titled "Creaturely Life: twenty pre-elegies", written in stream of consciousness from the point of view of a woman keeping vigil over her dying husband. The last poem concludes with a vision of the narrator knitting beside her husband's deathbed.
 
-I find the poems terribly moving and immediately re-read them three or four times, I think perhaps in some irrational attempt to try and console the narrator.
+The poems terribly moving, painfully so, and I immediately re-read them three or four times, possibly in some irrational attempt to try and console the narrator.
 
 So in giving it some thought I'm now envisioning a [yarn ball winder](https://www.knitpicks.com/accessories/Yarn_Ball_Winder__D82500.html) as a kind of metaphorical interface for reading this particular text.
 
-I have a sense memory, from where and how far back I have no idea, of playing with a yarn ball winder as a child and finding the sensation strangely satisfying. Something about the wobble spinning on an irregular axis is evocative of an orrery, and turning the crank somehow suggests the speeding up and slowing down of time. And from a purely practical standpoint, because [it's mechanical](https://pin.it/zdqm6yirlifez7) there are likely good opportunities to mount / incorporate sensors which I'll need to synchronize the flow of text on the screen.
+I have a sense memory -- from where and how far back I have no idea -- of playing with a yarn ball winder as a child and finding the interaction strangely satisfying. Turning the crank somehow suggests the speeding up and slowing down of time and something about the wobble, spinning off-axis like a wonky pirouette, is evocative of an orrery.
 
-The phrase 'spinning a yarn' comes to mind, though I believe the etymology there is to do with rope and sailors, not wool and knitters. And 'spinning a yarn' implies hyperbole, which has no place in this context.
+From a purely practical standpoint, because [it's mechanical](https://pin.it/zdqm6yirlifez7) there are likely good opportunities to mount / incorporate sensors which I'll need to synchronize the flow of text on the screen.
 
-There's also 'the whole ball of yarn' which according to [this post on Yahoo Answers](https://answers.yahoo.com/question/index?qid=20060707144535AAoOAtA) (now a decade old) appears to have some interesting origins / connotations. The sexual connotation stood out if only because the person posting claims it has an Irish usage, if not origin, and there's a passage in the poems about Irish heritage.
+The phrase 'spinning a yarn' comes to mind, though I believe the etymology there is to do with rope and sailors, not wool and knitters. And 'spinning a yarn' connotes hyperbole, which has no place in this context.
 
-The other meaning -- to complete something -- seems richer. At first I'd thought of pulling the yarn only as a kind of unravelling but maybe it works this way as well, reconstituting yarn in ball form (technically, it's called a cake) is a kind of closure. Leaving one's affairs in order. An undoing, as distinct from a falling apart, which seems in keeping with the narrator's strength of character. It makes me think of that weird way in which people compose themselves at funerals and vigils.
+There's also 'the whole ball of yarn' which according to [this post on Yahoo Answers](https://answers.yahoo.com/question/index?qid=20060707144535AAoOAtA) appears to have some interesting origins / connotations. The sexual connotation stood out if only because the person posting claims it has an Irish usage and there's a passage in the poems about Irish lineage.
+
+The other meaning -- 'to complete something' -- seems richer. At first I'd thought of pulling at yarn strictly as a kind of unravelling but maybe it works this way as well, winding yarn back into a ball (technically, it's called a cake) as a kind of closure. Leaving one's affairs in order. An undoing, as distinct from a falling apart, which seems in keeping with the narrator's strength of character. It makes me think of that weird way in which people compose themselves at funerals and vigils.
 
 Maybe I can buy some knit sweaters at a thrift shop and they can be unravelled as the reading unfolds, the yarn passing behind one side of the screen, emerging on the other, and spun onto the ball winder.
 
