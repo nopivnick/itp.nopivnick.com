@@ -47,4 +47,4 @@ Whirling Dervishes come to mind. And Moviolas.
 
 EDIT: Michael has unearthed another 'spin' on yarn in [English As We Speak It in Ireland by P. W. Joyce](https://www.gutenberg.org/ebooks/34251) (no relation to Michael):
 
-> ***Bottom***; a clue or ball of thread. One of the tricks of girls on Hallow-eve to find out the destined husband is to go out to the limekiln at night with a ball of yarn; throw in the ball still holding the thread; re-wind the thread, till it is suddenly stopped; call out 'who _howlds_ my bottom of yarn?' when she expects to hear the name of the young man she is to marry.
+> Bottom; a clue or ball of thread. One of the tricks of girls on Hallow-eve to find out the destined husband is to go out to the limekiln at night with a ball of yarn; throw in the ball still holding the thread; re-wind the thread, till it is suddenly stopped; call out 'who howlds my bottom of yarn?' when she expects to hear the name of the young man she is to marry.
