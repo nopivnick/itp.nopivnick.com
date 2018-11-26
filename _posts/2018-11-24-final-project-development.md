@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "Final Project: Ideation"
+title:        "Final Project: Development"
 date:         2018-11-24 20:00:19 -05:00
 categories:   ICM PhysComp
 ---
@@ -11,15 +11,15 @@ It turns out I'm not the only one who finds spinning a yarn ball winder deeply s
 
 I met with Mimi an hour prior to the ICM playtesting session and she strongly encouraged me to whip together a mock-up of the 'algorithm' driving how the text of the poem is revealed on the screen. We discussed possibly using a blank piece of paper with a cut out that acted as a kind of 'mask' laid on top of the poem but soon after she wondered aloud about using a Google Doc I realized I could animate the effect by cycling through a series of keyboard-driven Undo hotkeys and try my best to match fluctuations in speed as the user turned the crank on the yard winder.
 
-The onscreen effect looked something like this:
-
-<iframe src="https://drive.google.com/file/d/1L1bRpTKubLPiwqw6zR2AeVFvRXq5QA_c/preview" width="640" height="480"></iframe>
-
-<br>
-
 Here's a mock-up of the experience:
 
 <iframe src="https://drive.google.com/file/d/1L1pebgM8irYywmiV-scUrV0DJ0T974KJ/preview" width="640" height="480"></iframe>
+
+<br>
+
+The onscreen effect looked something like this:
+
+<iframe src="https://drive.google.com/file/d/1L1bRpTKubLPiwqw6zR2AeVFvRXq5QA_c/preview" width="640" height="480"></iframe>
 
 <br>
 
