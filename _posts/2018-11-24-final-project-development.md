@@ -25,7 +25,7 @@ The onscreen effect looked something like this:
 
 Some of my ICM classmates had some really fantastic feedback.
 
-Ashley felt the interaction was compelling and strongly the text should be a rolling reveal one letter at a time, which gives the reader the opportunity to hear the poem according to their own rhythm, rather than the staccato effect of revealing one word or cluster of words at a time.
+Ashley felt the interaction was compelling and strongly believed the text should be a rolling reveal one letter at a time, giving the reader the opportunity to hear the poem according to their own rhythm rather than imposing the staccato effect of revealing one word or cluster of words at a time.
 
 Bora picked up on the moment the yarn runs out as a metaphor for the release that comes with death that but also interpreted the spinning motion of the ball winder as a metaphor for the cycle of both life and death, which was an interesting read.
 
