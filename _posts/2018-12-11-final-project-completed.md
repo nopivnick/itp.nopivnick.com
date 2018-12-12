@@ -61,6 +61,10 @@ The ring magnet was screwed to the crank ...
 
 <br>
 
+Finally, poems are selected with a rotary encoder.
+
+<iframe src="https://drive.google.com/file/d/1Wet64xqJNf1EWFaqYx6crCmQF0h-lhCt/preview" width="640" height="480"></iframe>
+
 # Code
 
 The onscreen interaction is driven by a [P5 sketch](https://editor.p5js.org/nopivnick/sketches/r146uFpkE) coded in part as a state machine with a separate state for each poem in the collection.
