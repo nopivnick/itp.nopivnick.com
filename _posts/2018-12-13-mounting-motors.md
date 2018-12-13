@@ -9,7 +9,6 @@ categories:   Fab
 
 Atmospheric presentation to accompany [a piece](https://itp.nyu.edu/shows/winter2018/creaturely-life/) in 2018 Winter Show.
 
-<br>
 
 # Drawings
 
