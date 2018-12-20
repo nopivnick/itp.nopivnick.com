@@ -9,11 +9,13 @@ categories:   ICM PhysComp
 
 Creaturely Life explores the winding of yarn as a tactile, tangible interface for reading electronic text.
 
+
 # Concept
 
-The piece takes it's name from a collection of poems by Michael Joyce, written in stream of consciousness from the perspective of a woman keeping vigil over her dying husband. The final poem in the series recounts having found solace in knitting beside her husband’s deathbed.
+The piece takes it's name from a collection of poems by Michael Joyce, written in stream of consciousness from the perspective of a woman keeping vigil over her dying husband. In the final poem of the series she recounts having found solace in knitting beside her husband’s hospice bed.
 
 Winding yarn with a ball winder is an intrinsically satisfying interaction. The crank evokes the passage of time. The wobble of the spool, spinning off-axis, conjures visions of an orrery, the cycle of life, and what it means to be immaterial.
+
 
 # Presentation
 
@@ -26,6 +28,7 @@ An installation at heart, Creaturely Life is both intimate and humble in present
 Turning the crank of a yarn ball winder, poems unfold at first in fragments on the screen as a length of yarn (the poem as object) passes through the user's fingers. The ball in the glass jar diminishes in size in proportion to the growing mass on the spindle of the winder. The poem fragments run their course and the poem is revealed in it's entirety only once the original ball of yarn has disappeared and recreated in identical form on on the winder's spindle.
 
 The newly wound ball is placed back in the glass jar, the user selects another in the collection of poems, and the interactive reading begins anew.
+
 
 # Fabrication
 
@@ -61,9 +64,12 @@ The ring magnet was screwed to the crank ...
 
 <br>
 
-Finally, poems are selected with a rotary encoder.
+The poems are selected with a rotary encoder and the piece is reset using the encoder's built-in switch.
 
 <iframe src="https://drive.google.com/file/d/1Wet64xqJNf1EWFaqYx6crCmQF0h-lhCt/preview" width="640" height="480"></iframe>
+
+Lastly, [a modified yarn swift](https://itp.nopivnick.com/fab/mounting-motors/) rigged to rotate using a DC motor driving a metal gearbox and two custom wooden pulleys connected by rubber band completes the installation.
+
 
 # Code
 
@@ -78,28 +84,39 @@ Discussion of the [Arduino code](https://gist.github.com/nopivnick/1cbb33a58ff56
 
 # Bill of materials
 
-To come.
+* [Arduino UNO Rev.3](https://store.arduino.cc/usa/arduino-uno-rev3)
+* [SparkFun Wheel Encoder Kit (ROB-12629)](https://www.sparkfun.com/products/12629)
+  * [Allegro A1220LUA-T (chopper-stabilized)](https://www.allegromicro.com/en/Products/Magnetic-Digital-Position-Sensor-ICs/Hall-Effect-Latches-Bipolar-Switches/A1220-1-2-3.aspx)
+* [Rotary Encoder Switch](https://www.amazon.com/gp/product/B0085I4D5C/), make / model unknown
+* [ON Semiconductor TIP120](https://www.onsemi.com/PowerSolutions/product.do?id=TIP120)
 
 
 # System diagram
 
-To come.
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vQ-Ss9_GBY-9HBQPvG1wtp4HU21lLY-rfzbulC-5ExXQU8KTWgsiGl1DnkbiZ9J2jHEsqu-LD9lxsG2/pub?w=960&amp;h=720">
 
+<br>
 
 # Circuit diagram
 
-To come.
+<iframe src="https://drive.google.com/file/d/1azyYpqFkUa-d_6nx2L3aV0EgSOAYpVJv/preview" width="640" height="480"></iframe>
 
+<br>
 
 # Breadboard wiring
 
-<iframe src="https://drive.google.com/file/d/1WXOIr92vBZg8L2uPsSlzZ7cFC5lWWA7X/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1b-PHecTamGCpc9gI74c68eazYmfhv9iT/preview" width="640" height="480"></iframe>
 
 <br>
 
 # References
 
-To come.
+* [Machine Design » Basics of Rotary Encoders](https://www.machinedesign.com/sensors/basics-rotary-encoders-overview-and-new-technologies-0)
+* [SparkFun » Assembly Guide for RedBot » Wheel Encoders (SIK)](https://learn.sparkfun.com/tutorials/assembly-guide-for-redbot-with-shadow-chassis/1-wheel-encoders-sik)
+* [Allegro A1220LUA-T (chopper-stabilized) datasheet](https://www.allegromicro.com/~/media/Files/Datasheets/A1220-1-2-3-Datasheet.ashx)
+* [Allegro Hall-Effect Sensor ICs](https://www.allegromicro.com/en/Design-Center/Technical-Documents/Hall-Effect-Sensor-IC-Publications/Allegro-Hall-Effect-Sensor-ICs.aspx)
+* [Latching Switch Hall-Effect IC Basics](https://www.allegromicro.com/en/Design-Center/Technical-Documents/Hall-Effect-Sensor-IC-Publications/Latching-Switch-Hall-Effect-IC-Basics.aspx)
+* [TIP120 datasheet](https://www.onsemi.com/pub/Collateral/TIP120-D.PDF)
 
 
 # Acknowledgements
