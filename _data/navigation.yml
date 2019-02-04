@@ -2,22 +2,16 @@
 main:
   # - title: "About"
   #   url: /about/
-  - title: "Collective"
-    url: /categories/collective/
-  - title: "Playful"
-    url: /categories/playful/
-  - title: "Tangible"
-    url: /categories/tangible/
-  - title: "Wearables"
-    url: /categories/wearables/
-  # - title: "Fab"
-  #   url: /categories/fab/
-  # - title: "Haptics"
-  #   url: /categories/haptics/
-  # - title: "ICM"
-  #   url: /categories/icm/
-  # - title: "PhysComp"
-    # url: /categories/physcomp/
+  - title: "Categories"
+    url: /categories/
+  - title: "Fab"
+    url: /categories/fab/
+  - title: "Haptics"
+    url: /categories/haptics/
+  - title: "ICM"
+    url: /categories/icm/
+  - title: "PhysComp"
+    url: /categories/physcomp/
   # - title: "Projects"
   #   url: /projects/
   # - title: "Sample Posts"
