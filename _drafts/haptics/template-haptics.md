@@ -1,8 +1,8 @@
 ---
 layout:       single
-title:        "Haptics Day X: <title>"
+title:        "Haptics Day XX: <title>"
 date:         
 categories:   Haptics
 ---
 
-# 
+#
