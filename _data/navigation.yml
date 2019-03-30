@@ -1,25 +1,10 @@
 # main links
 main:
+  #
+  # Default
+  #
   # - title: "About"
   #   url: /about/
-  - title: "Categories"
-    url: /categories/
-  - title: "Collective"
-    url: /categories/collective/
-  - title: "Playful"
-    url: /categories/playful/
-  - title: "Tangible"
-    url: /categories/tangible/
-  - title: "Wearables"
-    url: /categories/wearables/
-  # - title: "Fab"
-  #   url: /categories/fab/
-  # - title: "Haptics"
-  #   url: /categories/haptics/
-  # - title: "ICM"
-  #   url: /categories/icm/
-  # - title: "PhysComp"
-    # url: /categories/physcomp/
   # - title: "Projects"
   #   url: /projects/
   # - title: "Sample Posts"
@@ -28,3 +13,33 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  #
+  # 2018 - Fall
+  #
+  # - title: "Fab"
+  #   url: /categories/fab/
+  # - title: "Haptics"
+  #   url: /categories/haptics/
+  # - title: "ICM"
+  #   url: /categories/icm/
+  # - title: "PhysComp"
+  # url: /categories/physcomp/
+  #
+  # 2019 - Spring
+  #
+  - title: "Categories"
+    url: /categories/
+  - title: "Collective"
+    url: /categories/collective/
+  - title: "Fungus"
+    url: /categories/fungus/
+  - title: "Meaningful"
+    url: /categories/meaningful/
+  - title: "Paper"
+    url: /categories/paper/
+  - title: "Playful"
+    url: /categories/playful/
+  # - title: "Tangible"
+  #   url: /categories/tangible/
+  - title: "Wearables"
+    url: /categories/wearables/
