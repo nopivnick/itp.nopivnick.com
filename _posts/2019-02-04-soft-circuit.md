@@ -59,4 +59,4 @@ It would probably have been better to run the stitches down the stalk of the pla
 
 Alternatively, had I not positioned the battery holder directly behind the head of the plant, I might have incorporated the LEDs there.
 
-I'm quite happy with the switch, however. The design performs surprisingly well as a momentary switch, presumably because the felt on which the conductive fabric is bonded is wool and wool has 'memory'.
+I'm quite happy with the switch, however. It performs surprisingly well as a momentary switch, presumably because the felt on which the conductive fabric is bonded is wool and wool has 'memory'.
