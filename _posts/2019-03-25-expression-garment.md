@@ -14,6 +14,8 @@ This assignment was a collaboration with Idit Barak. Idit's blog post describing
 
 ![soldering leads](/assets/wearables/week-4/images/IMG_4373.jpeg)
 
+<iframe src="https://drive.google.com/file/d/1rBCkmmZQNka7Omq7acpLTADMmtXwFDO7/preview" width="640" height="480"></iframe>
+
 ![yoke mockup](/assets/wearables/week-4/images/IMG_4388.jpeg)
 
 ![silicon wire rail test](/assets/wearables/week-4/images/IMG_4389.jpeg)
@@ -29,8 +31,6 @@ This assignment was a collaboration with Idit Barak. Idit's blog post describing
 ![Flora powered by LiPo battery](/assets/wearables/week-4/images/IMG_4395.jpeg)
 
 ![yoke passing I2C bus scan](/assets/wearables/week-4/images/IMG_4400.jpeg)
-
-<iframe src="https://drive.google.com/file/d/1rBCkmmZQNka7Omq7acpLTADMmtXwFDO7/preview" width="640" height="480"></iframe>
 
 <iframe src="https://drive.google.com/file/d/1rKAcYPsRwajeyBDqfAa0n4q_jhXaf27h/preview" width="640" height="480"></iframe>
 
