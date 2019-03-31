@@ -13,11 +13,15 @@ categories:   Wearables
 
 
 
-# Images of Raw Materials
+# Raw Materials
 
 
 
-# Mid-process Images
+# Process
+
+
+
+# Code
 
 
 
@@ -25,7 +29,7 @@ categories:   Wearables
 
 
 
-# Final Image(s) of the Work
+# Final Image(s)
 
 
 
