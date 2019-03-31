@@ -14,11 +14,11 @@ This assignment was a collaboration with Idit Barak. Idit's blog post describing
 
 # Drawings
 
-![spring shoes heel](/assets/wearables/week-3/image/IMG_4297.jpeg)
-
 ![spring shoes sketch 1](/assets/wearables/week-3/image/IMG_4300.jpeg)
 
 ![spring shoes sketch 2](/assets/wearables/week-3/image/IMG_4301.jpeg)
+
+![spring shoes heel ideas](/assets/wearables/week-3/image/IMG_4297.jpeg)
 
 
 # Process
