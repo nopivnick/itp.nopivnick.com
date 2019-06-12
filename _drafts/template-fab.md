@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "Fab Week X: <title>"
+title:        "Fab Week XX: <title>"
 date:         
 categories:   Fab
 ---

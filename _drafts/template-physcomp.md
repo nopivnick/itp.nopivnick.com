@@ -5,11 +5,11 @@ date:
 categories:   PhysComp
 ---
 
-# summarize any insights you have in each week’s lab assignments
+# Summarize any insights you have in each week’s lab assignments
 
 
 
-# document your production projects and technical research thoroughly
+# Document your production projects and technical research thoroughly
 
 - statement of intention
 - what it looks like
@@ -24,7 +24,7 @@ categories:   PhysComp
   - if you only changed one part of an existing program, post only the part you changed, and link to the original
 
 
-# discuss readings
+# Discuss Readings
 
 
-# questions
+# Questions

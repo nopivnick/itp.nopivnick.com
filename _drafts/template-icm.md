@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "ICM Week XX: blah-blah"
+title:        "ICM Week XX: <title>"
 date:         
 categories:   ICM
 ---
