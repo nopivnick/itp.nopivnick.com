@@ -34,5 +34,5 @@ It's always disconcerting to be confronted with one's own bias.
 TODO:
 
 - explicit choices
-- point and click
+- tactile interfaces vs point and click
 - progress and pace
