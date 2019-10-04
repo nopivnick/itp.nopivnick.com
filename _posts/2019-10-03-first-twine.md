@@ -5,23 +5,19 @@ date:         2019-10-03 05:20:56 -04:00
 categories:   Narrative
 ---
 
-Reading the Shelley Jackson piece last week was so delightful because the piece is so very much an artifact of that particular time and in that sense so very familiar to me.
+Reading [My Body](http://collection.eliterature.org/1/works/jackson__my_body_a_wunderkammer/index.html) by Shelley Jackson last week was delicious. It's such an artifact of [the era](https://www.wired.com/2013/04/hypertext/) in which and [the tool](https://www.eastgate.com/storyspace/) with which it was authored. So much of My Body was familiar to me even though I'd never read it.
 
-Something similar happens sometimes with people I don't even know, like punctuation followed by two spaces before the first letter of the following sentence. I feel a strange affinity with them because I know they are old enough to have used a typewriter and never shed that particular convention tied to that particular piece of technology.
+Something similar happens sometimes with people I don't even know, like [two spaces following the end of a sentence](https://www.cultofpedagogy.com/two-spaces-after-period/). I feel a strange affection for these strangers because I know they are old enough to have used a typewriter and carry with them a writing convention that's tied to a particular piece of technology.
 
 I image it must be like that for coders, too. Language, syntax, and style. Greybeards and script kiddies.
 
-Historically there was a tension between the old-school literary hyperptextualists and the interactive fiction crowd and it basically boils down to this: 'is it a game, or is it serious literature?'
+Historically there was a tension between the old-school literary hyperptextualists and the  interactive fiction crowd. It basically boils down to: 'is it a game, or is it serious literature?'
 
-[GET LAMP](https://youtu.be/LRhbcDzbGSU), the documentary about text-based adventure games, doesn't address hypertext literature per se but there's a brief moment during an interview with 'hypertext pioneer' Stuart Moulthrop, one of the early hypertext fiction authors (and a very sweet man), in which he refers obliquely to the tension I'm talking about:
-
-[https://youtu.be/LRhbcDzbGSU?t=1h17m29s](https://youtu.be/LRhbcDzbGSU?t=1h17m29s)
+[GET LAMP](https://youtu.be/LRhbcDzbGSU), the documentary about text-based adventure games, doesn't address hypertext literature per se but there's [a brief moment](https://youtu.be/LRhbcDzbGSU?t=1h17m29s) during an interview with 'hypertext pioneer' Stuart Moulthrop, one of the early hypertext fiction authors (and just to be clear, a very sweet man), in which he refers albeit obliquely to the tension I'm talking about.
 
 Stewart offers a mea culpa of sorts in some footage that didn't make it into the final cut, I'll see if I can't find it.
 
-This tension shows itself in a different context when Chris Klimas (creator of Twine, the most widely used tool among the interactive fiction crowd) offered a very civilized response to what is tantamount to a slight from Mark Bernstein (publisher of StorySpace, the first hypertext authoring tool for writers):
-
-[http://chrisklimas.com/the-economy-of-twine/](http://chrisklimas.com/the-economy-of-twine/)
+This same tension shows itself in a different context when Chris Klimas (creator of [Twine](https://twinery.org), a widely used tool among the interactive fiction crowd) offered [a civilized response](http://chrisklimas.com/the-economy-of-twine/) to what is tantamount to [a slight](http://publishingperspectives.com/2014/02/exprima-talks-reading-hypertext-with-mark-berstein/) from Mark Bernstein (publisher of StorySpace, the first hypertext authoring tool for writers).
 
 Below are two lexia I dug out from my college thesis. The writing is a little affected but it's telling.
 
