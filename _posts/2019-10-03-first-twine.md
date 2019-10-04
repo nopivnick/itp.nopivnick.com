@@ -5,19 +5,19 @@ date:         2019-10-03 05:20:56 -04:00
 categories:   Narrative
 ---
 
-Reading [My Body](http://collection.eliterature.org/1/works/jackson__my_body_a_wunderkammer/index.html) by Shelley Jackson last week was delicious. It's such an artifact of [the era](https://www.wired.com/2013/04/hypertext/) in which and [the tool](https://www.eastgate.com/storyspace/) with which it was authored. So much of My Body was familiar to me even though I'd never read it.
+Reading [My Body](http://collection.eliterature.org/1/works/jackson__my_body_a_wunderkammer/index.html) by Shelley Jackson last week was delicious. It's such an artifact of [the era](https://www.wired.com/2013/04/hypertext/) in which -- and [the tool](https://www.eastgate.com/storyspace/) with which -- it was authored. So much of the experience of reading the piece was familiar to me despite never having read it before.
 
-Something similar happens sometimes with people I don't even know, like [two spaces following the end of a sentence](https://www.cultofpedagogy.com/two-spaces-after-period/). I feel a strange affection for these strangers because I know they are old enough to have used a typewriter and carry with them a writing convention that's tied to a particular piece of technology.
+Something similar happens when I stumble upon text with [two spaces following the end of a sentence](https://www.cultofpedagogy.com/two-spaces-after-period/). I feel a strange affection for these strangers because I know they are old enough to have been typewriter users and carry with them a writing convention that's tied to a particular piece of technology.
 
-I image it must be like that for coders, too. Language, syntax, and style. Greybeards and script kiddies.
+I image it must be like that for coders, too. Syntax and style. Greybeards and script kiddies.
 
-Historically there was a tension between the old-school literary hyperptextualists and the  interactive fiction crowd. It basically boils down to: 'is it a game, or is it serious literature?'
+Historically there's been a tension between the old-school literary hyperptextualists and the  interactive fiction crowd. It boils down to the question: 'is it a game, or is it serious literature?'
 
-[GET LAMP](https://youtu.be/LRhbcDzbGSU), the documentary about text-based adventure games, doesn't address hypertext literature per se but there's [a brief moment](https://youtu.be/LRhbcDzbGSU?t=1h17m29s) during an interview with 'hypertext pioneer' Stuart Moulthrop, one of the early hypertext fiction authors (and just to be clear, a very sweet man), in which he refers albeit obliquely to the tension I'm talking about.
+[GET LAMP](https://youtu.be/LRhbcDzbGSU), the documentary about text-based adventure games, doesn't address hypertext literature per se but there's [a brief moment](https://youtu.be/LRhbcDzbGSU?t=1h17m29s) during an interview with Stuart Moulthrop, one of the early hypertext fiction authors (and a very kind man), in which he refers (albeit obliquely) to the tension I'm talking about.
 
-Stewart offers a mea culpa of sorts in some footage that didn't make it into the final cut, I'll see if I can't find it.
+The Moulthrop snippet is pulled from a [10 minute source](https://archive.org/details/getlamp_moulthrop) in which he describes hypertext fiction and interactive fiction as "siblings" engaged in a "turf battle" and sweetly, offers a kind of mea culpa for any part he may have played in that dynamic.
 
-This same tension shows itself in a different context when Chris Klimas (creator of [Twine](https://twinery.org), a widely used tool among the interactive fiction crowd) offered [a civilized response](http://chrisklimas.com/the-economy-of-twine/) to what is tantamount to [a slight](http://publishingperspectives.com/2014/02/exprima-talks-reading-hypertext-with-mark-berstein/) from Mark Bernstein (publisher of StorySpace, the first hypertext authoring tool for writers).
+This same tension showed itself in a contemporary context when Chris Klimas (creator of [Twine](https://twinery.org), a widely used tool among the interactive fiction crowd) offered [a civilized response](http://chrisklimas.com/the-economy-of-twine/) to what is tantamount to [a slight](http://publishingperspectives.com/2014/02/exprima-talks-reading-hypertext-with-mark-berstein/) from Mark Bernstein (publisher of StorySpace, the first hypertext authoring tool for writers).
 
 Below are two lexia I dug out from my college thesis. The writing is a little affected but it's telling.
 
@@ -29,6 +29,9 @@ It's always disconcerting to be confronted with one's own bias.
 
 TODO:
 
-- explicit choices
-- tactile interfaces vs point and click
-- progress and pace
+- text as visual form
+- motion and animation and ...
+- the challenges of depicting progress and pace
+- explicit choices as disruptive to flow
+- the tedium of point and click and ...
+- the need for tactile interfaces
