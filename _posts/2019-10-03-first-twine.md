@@ -19,13 +19,13 @@ The Moulthrop snippet is pulled from a [10 minute source](https://archive.org/de
 
 This same tension showed itself in a contemporary context when Chris Klimas (creator of [Twine](https://twinery.org), a widely used tool among the interactive fiction crowd) offered [a civilized response](http://chrisklimas.com/the-economy-of-twine/) to what is tantamount to [a slight](http://publishingperspectives.com/2014/02/exprima-talks-reading-hypertext-with-mark-berstein/) from Mark Bernstein (publisher of StorySpace, the first hypertext authoring tool for writers).
 
-Below are two lexia I dug out from my college thesis. The writing is a little affected but it's telling.
+Below are two lexia from an introductory sequence in my college thesis. The writing is somewhat affected but nonetheless, it's telling.
 
 > Hypertext lends itself to the gap I seek to represent as narrative. A form which is simultaneously visual and textual, Hypertext evokes allusions to space and motion. The perpetual comings and goings, places visited, re-visited, visited anew ...
 
 > Equating this form with the 'choose your own adventure' books of our childhood, suggestions to the effect that it 'mimics the mind,' do the narrative application more harm than descriptive good. They are weak analogies, anxious rhetorical spoutings regarding a neophyte, as of yet un-articulated form. The suspect qualities of impetus and closure in narrative are sufficiently in question. 'Non-linearity' and 'disruptive narrative' are exhausted labels. My interest lies in a smaller (though equally immeasurable) unit of the electronic narrative: the in-between, the moving from one place to another... the narrative void. I seek to draw out the link, to incorporate and exploit it for the sake of the telling.
 
-It's always disconcerting to be confronted with one's own bias.
+It's never a bad thing to be confronted with one's own bias.
 
 TODO:
 
