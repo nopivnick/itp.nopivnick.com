@@ -124,7 +124,7 @@ Here's a map of the trace:
 
 ![image-title-here](/assets/images/undernets/week-04/bad.horse_traceroute_fios.png)
 
-It turns out the trace in combination with (I'm guessing OpenDNS?) domain name resolutions are lyrics to the [Bad Horse Chorus](https://youtu.be/EAxQxFXSEKw?t=16) from Josh Whedon's [Dr. Horrible's Sing-Along Blog](http://drhorrible.com/).
+It turns out the trace in combination with (I'm guessing OpenDNS?) domain name resolutions are lyrics to the [Bad Horse Chorus](https://youtu.be/EAxQxFXSEKw?t=16) from Joss Whedon's [Dr. Horrible's Sing-Along Blog](http://drhorrible.com/).
 
 > Bad Horse, Bad Horse  
 > Bad Horse, he’s bad  
