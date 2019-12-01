@@ -18,3 +18,5 @@ Python is new to me and I struggled with it, as I continue to struggle with Java
 I enjoyed our first assignment using Tracery and unlike the other more computationally sophisticated tools I'm able to wrap my head around it conceptually as a kind of skeletal structure on/in which to hang/infuse raw material extracted from donor texts. Working backwards from Tracery I opted to play with [spaCy](https://spacy.io/). Other than having spent perhaps half an hour playing with [Runway ML](https://runwayml.com/), I've done absolutely nothing with machine learning.
 
 Honestly, I had no notion of what I'd hoped to accomplish and I'm sure it shows. The problem, at least as I experience it, is one requires a certain proficiency with the tools before one can begin to plot a course of inquiry. You can see it in my code, the futile compulsion to step through spaCy's parts of speech tagging, absent a purpose (let alone an outcome) in mind.
+
+Code and NaNoGenMo are [here](http://j.mp/35QjNIE).
