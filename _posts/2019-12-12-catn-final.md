@@ -42,4 +42,4 @@ The second option employed a kind of carefully crafted ambiguity that accommodat
 
 Twine is the more powerful tool than StorySpace, no doubt. But I wonder whether it's significant (if not somehow symbolic) that Twine's syntax is actually disruptive to the writing process itself. On the one hand it's easier to accomplish complexity using syntax that is approachable. On the other hand that very same syntax does a kind of violence to the text, making it difficult to actually compose the writing in the editor.
 
-Final is [http://j.mp/2PfpTgk](here).
+Final is [here](http://j.mp/2PfpTgk).
