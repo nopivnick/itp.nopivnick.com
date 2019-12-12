@@ -17,7 +17,7 @@ Admittedly, the Twine piece puts more emphasis on narrative than it does on comp
 
 My intention for the Twine piece was to describe the withering of a relationship over time using cycles of repetition punctuated by shift in tone, and to have that shift seep through each time the reader passes through the loop. I like the idea of the loop as a kind of narrative resignation.
 
-The change in tone is sinusoidal, oscillating between euphoric, monotonous, somber, monotonous then back to euphoric. The transition happens after every complete cycle of the narrative loop using modulus.
+The change in tone is sinusoidal, oscillating between euphoric, monotonous, somber, monotonous then back to euphoric. The transition happens after every complete cycle of the narrative loop using modulo.
 
 ```
 <<if visited() % 4 is 3>>
