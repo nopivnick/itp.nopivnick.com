@@ -13,15 +13,15 @@ Aaron and I are proposing to build an installation that uses glass as a catalyst
 
 # Themes
 
-Glass is a material rich with symbolic value.
+Glass is a material the destruction of which is rich with symbolic meaning.
 
-Kristallnacht is perhaps the most evocative example. The name and representation of this traumatic historical event is derived from an action, breaking glass. There is also presence in popular sayings such as "Those who live in a glass house should not throw stones at others", making a clear relation not only on the fragility of the material itself but in some parts of human nature. Shame and preciousness could be seen as deeply different from each other, but both can also be related to the quality of glass.
+Kristallnacht is perhaps the most evocative example. The name and representation of this traumatic historical event is derived from an action, breaking glass. There is also presence in popular sayings such as "Those who live in a glass house should not throw stones at others", drawing a correlation between the material qualities of glass and the flaws of human nature.
 
-A second departing point for the piece was memory. Once broken, glass can not be taken back to its original state, the same way that a memory can not be erased. Once you know something impactful enough, it will not abandon your mind easily. A point of no return is inherent to the material as it is to memory. Preciousness, shame and past are also deeply related.
+A second departure point for the piece was memory. Some memories are sharp and piercing, like a shard of glass. Once broken, glass cannot be taken back to its original state, the same way that a memory cannot be erased. Once you know something impactful enough, it will not abandon your mind easily. A point of no return is as inherent to the material as it is to memory. Preciousness, shame and past are also deeply related. Shame and preciousness could be seen as deeply different from each other, but both can also be related to the quality of glass.
 
 Finally, a digital layer of this elaboration on fragility and memory can be enacted in the form of encryption. This technique is commonly used to store something precious in a digital memory, visible but unintelligible. But encryption can be broken too, as processing power gets bigger, cracking techniques more refined and companies less trustful, some commonly used forms of encryption could be seen as crystals in a rope, waiting to be broken.
 
-Glass provides the perfect medium with which to explore the relation between fragility, power and memory.
+Glass provides the perfect medium with which to explore the relation between vulnerability, power and memory.
 
 # Concept
 
