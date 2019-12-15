@@ -48,7 +48,7 @@ Our final for Uses of Discomfort revolves around the materiality of glass.
 
 The sound of glass shattering is both visceral and disturbing. It can evoke any number of unsettling associations: the tragic loss of a family heirloom; breaking one end of a bottle in an act of menace; a rock thrown through a storefront window in anger; the chilling sound of home invasion. It also signifies distress, as in the shout that comes from the kitchen: “Don’t come in! There’s broken glass!”
 
-Glass is simultaneously sturdy and fragile. Glass has a long history as an information storage medium. Prior to the advent of cellulose nitrate film, photographic emulsions were captured on glass plate negatives. Modern laptop hard drive platters are made from glass. Silicon, one of the elemental building blocks of silicate glass, is the substrate on which the the ubiquitous microchip is fabricated.
+Glass has a long history as an information storage medium. Prior to the advent of cellulose nitrate film, photographic emulsions were captured on glass plate negatives. Modern laptop hard drive platters are made from glass. Silicon, one of the elemental building blocks of silicate glass, is the substrate on which the the ubiquitous microchip is fabricated.
 
 # User Journey
 
