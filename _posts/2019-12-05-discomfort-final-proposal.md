@@ -19,19 +19,21 @@ The symbolism of shattered glass is perhaps most powerfully evoked by [Kristalln
 
 We also drew inspiration from the idiom "people who live in a glass house should not throw stones", an admonition to refrain from judging others least we be judged ourselves, drawing a correlation between the materiality of glass (transparent frangible barriers separating inside from outside, private from public) and flaws in human nature.
 
-Once broken, glass cannot be taken back to its original state, the same way that a memory cannot be erased. Once you know something impactful enough, it will not abandon your mind easily. A point of no return is as inherent to the material as it is to memory. Preciousness, shame and the past are also deeply related. Shame and preciousness could be seen as deeply different from each other, but both can also be related to the quality of glass.
-
-Finally, a digital layer of this elaboration on fragility and memory can be enacted in the form of encryption. This technique is commonly used to store something precious in a digital memory, visible but unintelligible.
-
-But like glass, encryption can be broken too. Now more than ever as raw computational power becomes greater, cracking techniques more refined, and the companies with whom we trust our data less ethical.
-
-And finally, this piece is about memory. Some memories are sharp and piercing, like a shard of glass. Others are treasured, framed or encased behind glass.
-
 # Concept
 
-Two guests are invited to choose one pane of glass each from a set of three. There are two sets of three, one for Aaron, one for myself.
+Aaron and I each identify three thoughts or memories, two of which are shameful, one of which is precious, all of which we prefer to keep private.
 
-The host retrieves the first select on behalf of the first guest and enters the installation alone.
+Each of the three pieces of information are recorded in a plain text file containing no more than 140 characters. The file is then encrypted from the terminal using OpenSSL:
+
+`$ openssl aes-256-cbc -a -salt -in input.txt -out output.txt`
+
+and the cipher text is then used to generate a [QR Code](https://www.qrcode-monkey.com/#text).
+
+Lastly, each QR Code is etched onto a piece of 1/4" thick 8.5" x 11" plate glass.
+
+Two guests are presented with the set of three and invited to choose one pane of glass each.
+
+The host retrieves the first selection on behalf of the first guest and enters the installation alone.
 
 He then emerges, asks the first guest to join him behind the curtain, explains the premise of the piece (there are three panes, two of which are shameful one of which is precious and he has no way of knowing which is which).
 
@@ -41,11 +43,13 @@ He hands the stone to the participant and asks that the glass be shattered. The 
 
 # Prototyping
 
-We’ve prototyped the interaction and etched the panes of glass. In keeping with Nick’s feedback, we incorporated a single piece of identifying information (our photos) into the design.
-
-{% include video id="1gAsYWbZpPgm7IbUV1VFGlg7yGTx-sPn1" provider="google-drive" %}
+In keeping with Nick’s feedback, we incorporated a single piece of identifying information (our photos) into the etch.
 
 ![Stack of etched panes of glass.](/assets/discomfort/2019-12-05/IMG_5377.JPG)
+
+We’ve also prototyped the interaction to determine whether the experience can be run effectively in a confined space.
+
+{% include video id="1gAsYWbZpPgm7IbUV1VFGlg7yGTx-sPn1" provider="google-drive" %}
 
 We still have a few logistics to work out: finalizing our safety protocol; how best to document; and how best to conclude the experience.
 
