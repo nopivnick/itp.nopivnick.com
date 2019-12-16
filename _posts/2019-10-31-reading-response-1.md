@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "Discomfort » Reading Response 01"
+title:        "Discomfort » Reading Response 1"
 date:         2019-10-31 16:22:39 -04:00
 categories:   Discomfort
 ---
