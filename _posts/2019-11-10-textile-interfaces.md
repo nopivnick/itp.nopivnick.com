@@ -50,10 +50,10 @@ For my final I wanted to keep playing with the little neodymium magnets. It occu
 
 If the volume is high enough you can hear the sound of the two magnets snapping together, pinching the conductive tape between them and ensuring good contact.
 
-{% include video id="1Dxvm5ZmKdvbJcLQx5jch-s8Gj3WjGxEq" provider="google-drive" %}
+{% include video id="1H2lld0XmDrWUoJ-B4pVkQmazZwDctybo" provider="google-drive" %}
 
 Technically, my final doesn't qualify as a rotary encoder. Were it an encoder, the Arduino would be reading position from one signal. As it stands, what I made is in effect four digital switches in a circular configuration.
 
-{% include video id="1ybDoIAgeMBFA51dyMZs7bRUPSMmKmMdQ" provider="google-drive" %}
+{% include video id="1lp4jqqn6WTyLDio2Ey0ysdb2XpLq6pu-" provider="google-drive" %}
 
 I like to think of it as a (text)ile interface for playing text adventures, famous for their use of the four cardinal points as a navigational conceit.
