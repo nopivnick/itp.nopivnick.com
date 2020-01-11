@@ -25,7 +25,9 @@ Aaron and I each identify three thoughts or memories, two of which are shameful,
 
 Each of the three pieces of information are recorded in a plain text file containing no more than 140 characters. The file is then encrypted from the terminal using OpenSSL:
 
-`$ openssl aes-256-cbc -a -salt -in input.txt -out output.txt`
+```
+$ openssl aes-256-cbc -a -salt -in input.txt -out output.txt
+```
 
 and the cipher text is then used to generate a [QR Code](https://www.qrcode-monkey.com/#text).
 
