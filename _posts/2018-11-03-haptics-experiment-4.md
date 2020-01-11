@@ -5,8 +5,6 @@ date:         2018-11-03 17:14:30 -04:00
 categories:   Haptics
 ---
 
-#
-
 Beverly Chou, Caleb Cloitre-Ferguson, Heng Tang, Lin Zhang, and I gathered on Sunday to explore the Touch Triggered Vibration prompt.
 
 As I recall the group struggled a bit coming up with a concept, which was surprising since touch and haptics are such close kin. Force Sensing Resistor (the [Interlink FSP 406](https://www.interlinkelectronics.com/fsr-406)) seemed an obvious choice as a means to trigger, that much was clear at least:
