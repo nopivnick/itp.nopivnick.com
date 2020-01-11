@@ -27,7 +27,7 @@ The part of this exercise I found most befuddling was the rapidly blinking green
 
 Lastly, early on in Intro to Computational Media we're taught recurring patterns are good indicators that code can be better optimized. The code as it's written sends LOW and HIGH outputs to a row of six LEDs for each additional 1/6th of the total range that measures force applied to the sensor.
 
-```C++
+```c++
 // if pressure sensor value is 0, turn off all LEDs
 if (analogValue <= 0) {
   digitalWrite(2, LOW);
