@@ -34,7 +34,7 @@ The change in tone is sinusoidal, oscillating between euphoric, mundane, somber,
 
 This has been an interesting exercise for me given my focus on hypertext narrative in undergrad. At the time there was no programmatic way to change the text within a given node (or lexia, or passage) over the course of the reading. Yes, there were conditionals, but they were assigned to links. The text itself in any given node was fixed.
 
-If one wanted to affect a subtle change in tone or meaning depending on where in the text the reader had arrived from, you had two choices: either maintain separate lexia that portray variations on a given node, or write in such a way as to accommodate different readings of the same text depending on it's context (where you've come from, where you land next).
+If one wanted to affect a subtle change in tone or meaning depending on where in the text the reader had arrived from, you had two choices: either maintain separate lexia that contain variations on a given passage, or write in such a way as to accommodate different readings of the same text depending on its context (where you've come from, where you land next).
 
 Twine makes easy work of the first option through the use of variables, conditionals, loops, or some combination thereof. But unlike before, it's now possible to procedurally alter the content of a given passage over the course of a reading.
 
