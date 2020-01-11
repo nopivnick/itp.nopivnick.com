@@ -46,30 +46,36 @@ main:
   #
   # 2019 - Fall
   #
+  # - title: "Categories"
+  #   url: /categories/
+  #   description: "All categories"
+  # - title: "Discomfort"
+  #   url: /categories/discomfort/
+  #   description: "Design For Discomfort"
+  # - title: "Masquerade"
+  #   url: /categories/masquerade/
+  #   description: "Masquerade"
+  # - title: "Narrative"
+  #   url: /categories/narrative/
+  #   description: "Computational Approaches to Narrative"
+  # - title: "Textile"
+  #   url: /categories/textile/
+  #   description: "Textile Interfaces"
+  # - title: "Understanding"
+  #   url: /categories/understanding/
+  #   description: "Understanding Networks"
+  #
+  # 2020 - Spring
+  #
   - title: "Categories"
     url: /categories/
     description: "All categories"
-  - title: "Discomfort"
-    url: /categories/discomfort/
-    description: "Design For Discomfort"
-  - title: "Electronics"
-    url: /categories/electronics/
-    description: "Electronics for Inventors"
-  - title: "Game Design"
-    url: /categories/game-design/
-    description: "Game Design and the Psychology of Choice"
-  - title: "Masquerade"
-    url: /categories/masquerade/
-    description: "Masquerade"
-  - title: "Media Devices"
-    url: /categories/media-devices/
-    description: "Making Media Making Devices"
-  - title: "Narrative"
-    url: /categories/narrative/
-    description: "Computational Approaches to Narrative"
-  - title: "Textile"
-    url: /categories/textile/
-    description: "Textile Interfaces"
-  - title: "Understanding"
-    url: /categories/understanding/
-    description: "Understanding Networks"
+  - title: "Cabinets"
+    url: /categories/cabinets/
+    description: "Cabinets of Wonder"
+  - title: "Experiences"
+    url: /categories/experiences/
+    description: "Playful Experiences"
+  - title: "Thesis"
+    url: /categories/thesis/
+    description: "Thesis"
