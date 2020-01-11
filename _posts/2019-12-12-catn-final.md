@@ -38,7 +38,7 @@ If one wanted to affect a shift in tone or meaning depending on where in the tex
 
 Like any good tool, Twine makes easy work of the first option through the use of variables, conditionals, loops, or some combination thereof. Unlike before, it's now possible to procedurally alter the content of a given passage over the course of a reading.
 
-The second option employed a kind of carefully crafted ambiguity that would compliment any and all nodes from which the reader might possibly arrive. From a purely practical standpoint, this was the easier choice. Easier to keep track of the shape of the text and certainly easier to 'debug'. But in many regards, it was in fact the more interesting challenge. It made one think about one's writing -- structurally, aesthetically, and thematically -- in a different way.
+The second option employed a kind of carefully crafted fluidity (or ambiguity, perhaps) that would compliment any and all nodes from which the reader might possibly arrive. From a purely practical standpoint, this was the easier choice. Easier to keep track of the shape of the text and certainly easier to 'debug'. But in many regards, it was in fact [the more interesting challenge](https://www.wired.com/2013/04/hypertext/). It made one think about one's writing -- structurally, aesthetically, and thematically -- in a different way.
 
 Twine is a more powerful tool than StorySpace, no doubt. But I wonder whether it's significant (if not somehow symbolic) that Twine's syntax is actually disruptive to the writing process itself. On the one hand it's easier to accomplish complexity using syntax that is approachable. On the other hand that very same syntax does a kind of violence to the text, making it difficult to actually compose in the editor.
 
