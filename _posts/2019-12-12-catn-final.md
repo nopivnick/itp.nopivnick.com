@@ -15,7 +15,7 @@ Arguably, the Twine piece puts more emphasis on narrative than it does on comput
 
 ![Twine's Story Map view](/assets/catn/2019-12-12/luna_story-map.png)
 
-The Twine piece is meant to describe the withering of a relationship over time using cycles of repetition punctuated by shift in tone, and to have that shift seep through subliminally each time the reader passes through the loop. I like the idea of the loop as a kind of narrative resignation.
+The Twine piece is meant to describe the withering and flourishing of a relationship over time using cycles of repetition punctuated by shift in tone, and to have that shift seep through the screen subliminally each time the reader passes through the loop. I like the idea of the loop as a kind of narrative resignation.
 
 The change in tone is sinusoidal. It oscillates between euphoric, mundane, somber, mundane then back to euphoric. The transition happens after every complete cycle of the narrative loop using modulo.
 
