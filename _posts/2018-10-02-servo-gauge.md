@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "PhysComp Week 4: Servo w/ Disk Gauge"
+title:        "PhysComp » Week 4: Servo w/ Disk Gauge"
 date:         2018-10-02 20:11:20 -04:00
 categories:   PhysComp
 ---

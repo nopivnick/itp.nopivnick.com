@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "Fab Week 4: Enclosure"
+title:        "Fab » Week 4: Enclosure"
 date:         2018-11-28 15:41:02 -05:00
 categories:   Fab
 ---

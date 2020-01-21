@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "CAtN Assignment 03: Inform7"
+title:        "CAtN » Sketch 3: Inform"
 date:         2019-10-17 10:19:15 -04:00
 categories:   Narrative
 ---

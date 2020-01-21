@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "Haptics Experiment 5: Final Project"
+title:        "Haptics » Final"
 date:         2018-11-03 17:14:37 -04:00
 categories:   Haptics
 ---

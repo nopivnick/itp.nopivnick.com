@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "Haptics Experiment 4: Haptics Buffet"
+title:        "Haptics » Experiment 4: Haptics Buffet"
 date:         2018-11-03 17:14:30 -04:00
 categories:   Haptics
 ---

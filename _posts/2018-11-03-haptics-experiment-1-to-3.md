@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "Haptics Experiments 1 - 3"
+title:        "Haptics » Experiments 1 - 3"
 date:         2018-11-03 17:14:12 -04:00
 categories:   Haptics
 ---

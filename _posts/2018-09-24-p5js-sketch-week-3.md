@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "ICM Week 3: My Third P5js Sketch"
+title:        "ICM » Week 3: Third p5 Sketch"
 date:         2018-09-24 09:27:09 -04:00
 categories:   ICM
 ---

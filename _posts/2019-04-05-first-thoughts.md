@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "Fungus Week 1: Initial Thoughts"
+title:        "Fungus » Week 1: Initial Thoughts"
 date:         2019-04-05 11:35:59 -04:00
 categories:   Fungus
 ---

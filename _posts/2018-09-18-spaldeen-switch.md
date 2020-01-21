@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "PhysComp Week 2: Spaldeen Switch"
+title:        "PhysComp » Week 2: Spaldeen Switch"
 date:         2018-09-18 19:02:01 -04:00
 categories:   PhysComp
 ---

@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "Wearables Week 4: Self Expression Garment"
+title:        "Wearables » Week 4: Self Expression Garment"
 date:         2019-03-24 14:12:13 -04:00
 categories:   Wearables
 ---

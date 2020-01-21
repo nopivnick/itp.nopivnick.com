@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "ICM Week 1: My First P5js Sketch"
+title:        "ICM » Week 1: First p5 Sketch"
 date:         2018-09-10 22:47:54 -0400
 categories:   ICM
 ---

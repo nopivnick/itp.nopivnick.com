@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "PhysComp Week 1: What's your favorite tool?"
+title:        "PhysComp » Week 1: Favorite tool"
 date:         2018-09-11 18:57:31 -04:00
 categories:   PhysComp
 ---

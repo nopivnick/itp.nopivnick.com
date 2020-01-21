@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "Understanding Networks » Assignment 03: Packet Analysis"
+title:        "Understanding Nets » Assignment 3: Packet Analysis"
 date:         2019-10-28 19:47:23 -04:00
 categories:   Understanding
 classes:      wide

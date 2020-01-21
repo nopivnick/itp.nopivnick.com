@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "Wearables Week 1: Hello World"
+title:        "Wearables » Week 1: Hello World"
 date:         2019-02-03 09:42:47 -04:00
 categories:   Wearables
 ---

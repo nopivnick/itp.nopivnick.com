@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "ICM Week 8: Oh, the feedback"
+title:        "ICM » Week 8: Feedback (though not by design)"
 date:         2018-10-29 22:14:17 -04:00
 categories:   ICM
 ---

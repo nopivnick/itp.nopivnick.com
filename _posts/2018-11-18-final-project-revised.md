@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "Final Project: Revised"
+title:        "ICM & Physcomp » Final: Revised"
 date:         2018-11-18 17:43:52 -05:00
 categories:   ICM PhysComp
 ---

@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "Wearables Week 2: Soft Circuit"
+title:        "Wearables » Week 2: Soft Circuit"
 date:         2019-02-03 09:45:49 -04:00
 categories:   Wearables
 ---

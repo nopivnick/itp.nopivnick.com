@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "Understanding Networks Week 04: traceroute"
+title:        "Understanding Nets » Assignment 1: traceroute"
 date:         2019-09-29 11:59:49 -04:00
 categories:   Understanding
 toc:          true

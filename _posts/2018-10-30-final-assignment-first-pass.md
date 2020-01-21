@@ -1,8 +1,8 @@
 ---
 layout:       single
-title:        "PhysComp Week 8: Final Assignment, First Thoughts"
+title:        "ICM & PhysComp » Final: Initial Thoughts"
 date:         2018-10-30 19:52:16 -04:00
-categories:   PhysComp
+categories:   ICM PhysComp
 ---
 
 I studied electronic literature and hypertext fiction in college.

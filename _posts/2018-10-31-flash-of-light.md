@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "Fab Week 1: Flashlight"
+title:        "Fab » Week 1: Flashlight"
 date:         2018-10-31 17:43:00 -04:00
 categories:   Fab
 ---

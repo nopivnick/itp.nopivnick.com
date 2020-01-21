@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "Fab Week 6: Mounting Motors"
+title:        "Fab » Week 6: Mounting Motors"
 date:         2018-12-12 23:33:58 -05:00
 categories:   Fab
 ---

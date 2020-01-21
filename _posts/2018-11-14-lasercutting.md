@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "Fab Week 3: Measurements & Lasercutting"
+title:        "Fab » Week 3: Measurements & Lasercutting"
 date:         2018-11-14 17:08:54 -05:00
 categories:   Fab
 ---

@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "CAtN » Sketch 04: RiveScript"
+title:        "CAtN » Sketch 4: RiveScript"
 date:         2019-10-31 10:09:19 -04:00
 categories:   Narrative
 classes:      wide

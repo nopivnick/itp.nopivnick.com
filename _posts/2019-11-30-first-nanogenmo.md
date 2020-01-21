@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "CAtN » Sketch 05: NaNoGenMo"
+title:        "CAtN » Sketch 5: NaNoGenMo"
 date:         2019-11-30 18:44:32 -05:00
 categories:   Narrative
 ---

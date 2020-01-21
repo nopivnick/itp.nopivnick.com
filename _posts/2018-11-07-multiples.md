@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "Fab Week 2: Multiples"
+title:        "Fab » Week 2: Multiples"
 date:         2018-11-07 17:34:23 -05:00
 categories:   Fab
 ---

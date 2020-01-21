@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "Wearables Week 3: A New Sense Garment"
+title:        "Wearables » Week 3: A New Sense Garment"
 date:         2019-02-10 11:04:07 -04:00
 categories:   Wearables
 ---

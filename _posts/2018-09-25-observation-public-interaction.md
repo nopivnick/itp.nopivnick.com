@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "PhysComp Week 3: Observation"
+title:        "PhysComp » Week 3: Observation"
 date:         2018-09-25 19:48:42 -04:00
 categories:   PhysComp
 ---

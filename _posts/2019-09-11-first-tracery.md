@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "Computational Narrative Week 01: Tracery"
+title:        "CAtN » Sketch 1: Tracery"
 date:         2019-09-11 22:00:22 -04:00
 categories:   Narrative
 ---

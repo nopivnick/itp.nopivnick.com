@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "Discomfort » memorial"
+title:        "Discomfort » Memorial"
 date:         2019-11-21 18:03:51 -05:00
 categories:   Discomfort
 classes:      wide

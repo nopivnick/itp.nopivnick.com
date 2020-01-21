@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "ICM Week 1: Computation And Its Applications"
+title:        "ICM » Week 1: Computation"
 date:         2018-09-10 16:52:05 -0400
 categories:   ICM
 ---

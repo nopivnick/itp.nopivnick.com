@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "Computational Narrative Week 03: Twine"
+title:        "CAtN » Sketch 2: Twine"
 date:         2019-10-03 05:20:56 -04:00
 categories:   Narrative
 ---
