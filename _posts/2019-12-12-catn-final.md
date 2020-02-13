@@ -34,7 +34,7 @@ The change in tone is sinusoidal. It oscillates between euphoric, mundane, sombe
 
 This has been an interesting exercise given my focus on hypertext narrative in undergrad. The authoring environment we used at the time offered no programmatic way to change the text within a given lexia (or node, or passage) over the course of the reading. Yes, there were conditionals, but they were assigned exclusively to links and therefor navigation. The text in any given lexia was fixed.
 
-If one wanted to affect a subtle change based what came before, you had two choices: either maintain separate lexia that contain slight variations on a given passage, or write in such a way as to accommodate different readings of the same text depending on context.
+If one wanted to affect a subtle change based on what came before, you had two choices: either maintain separate lexia that contain slight variations on a given passage, or write in such a way as to accommodate different readings of the same text depending on context.
 
 Like StorySpace, Twine makes easy enough work of the first option. Unlike StorySpace, Twine makes it possible to programmatically alter the content of a given passage over the course of a reading through the use of variables, conditionals, loops, or any combination thereof.
 

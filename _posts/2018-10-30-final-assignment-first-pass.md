@@ -17,7 +17,7 @@ At the time most non-linear narrative was poorly written and fairly un-sophistic
 
 Navigation requires action, and taking action requires choice, but choices do not necessarily beget expected outcomes. The magic of digital non-linear narrative is the logic underlying how you get from here to the next place and that logic is not necessarily always transparent to the reader.
 
-Non-linear narratives often evokes a kind of low-level anxiety, whether it be a general sense of disorientation or an acute fear of missing out. Years ago I used to refer to it as readerly resentment. It could be this generation has shed those particular anxieties, but I've certainly held onto them. Regardless, I do think story is at its best when the narrative progression is at least coherent, if not linear.
+Non-linear narratives often evokes a kind of low-level anxiety, whether it be a general sense of disorientation or an acute fear of missing out. Years ago I used to refer to it as readerly resentment. It could be this generation has shed those particular anxieties, but I've certainly held onto them. Regardless, I do believe story is at its best when the narrative progression is at least coherent, if not linear.
 
 I came to ITP with an interest in exploring what a tangible interface for digital non-linear narrative might look like. An interface that affords some experience of narrative progression without resorting to an explicit list of choices.
 
