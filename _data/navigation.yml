@@ -73,8 +73,6 @@ main:
   - title: "Cabinets"
     url: /categories/cabinets/
     description: "Cabinets of Wonder"
-  - title: "Experiences"
-    url: /categories/experiences/
     description: "Playful Experiences"
   - title: "Thesis"
     url: /categories/thesis/
