@@ -9,7 +9,7 @@ categories:   ICM
 
 # Collect inspirations: Quotes, photographs, products, projects, people, music, political events, social ills.
 
-In ? the various projects at [MIT Media Lab's Tangible Media Group](https://tangible.media.mit.edu/), there seemed to be a faint connection to [Triangles and Narratives](https://tangible.media.mit.edu/project/triangles-and-narratives/) (2000) (an extension of the [Triangles](https://tangible.media.mit.edu/project/triangles/) project (1998)), which "explores ways in which people can create/navigate through non-linear narrative spaces using Triangles."
+Among the various projects at [MIT Media Lab's Tangible Media Group](https://tangible.media.mit.edu/), there seemed to be a faint connection to [Triangles and Narratives](https://tangible.media.mit.edu/project/triangles-and-narratives/) (2000) (an extension of the [Triangles](https://tangible.media.mit.edu/project/triangles/) project (1998)), which "explores ways in which people can create/navigate through non-linear narrative spaces using Triangles."
 
 <iframe src="https://player.vimeo.com/video/48826643" width="640" height="480" frameborder="0" allowfullscreen></iframe>
 
