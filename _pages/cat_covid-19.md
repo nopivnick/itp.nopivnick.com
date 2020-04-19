@@ -1,6 +1,6 @@
 ---
-title: Thesis
+title: COVID-19
 layout: category
-permalink: /categories/thesis/
-taxonomy: Thesis
+permalink: /categories/covid-19/
+taxonomy: COVID-19
 ---
