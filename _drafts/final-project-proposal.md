@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "ICM Week 11: Final Project, Initial Thoughts"
+title:        "ICM » Week 11: Final Project, Initial Thoughts"
 date:         2018-11-11 20:30:03 -05:00
 categories:   ICM
 ---

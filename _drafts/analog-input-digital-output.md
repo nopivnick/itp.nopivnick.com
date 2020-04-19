@@ -1,6 +1,6 @@
 ---
 layout:       single
-title:        "PhysComp Week 3: Analog Input → Digital Output"
+title:        "PhysComp » Week 3: Analog Input → Digital Output"
 date:         2018-09-23 17:56:04 -04:00
 categories:   PhysComp
 ---
