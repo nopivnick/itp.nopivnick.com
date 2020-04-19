@@ -73,7 +73,9 @@ main:
   - title: "Cabinets"
     url: /categories/cabinets/
     description: "Cabinets of Wonder"
-    description: "Playful Experiences"
+  - title: "COVID-19"
+    url: /categories/covid-19/
+    description: "COVID-19"
   - title: "Thesis"
     url: /categories/thesis/
     description: "Thesis"
